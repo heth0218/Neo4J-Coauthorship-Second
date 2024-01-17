@@ -1,0 +1,260 @@
+name,affiliation
+Niloy J. Mitra,Unknown
+Miika Aittala,NVIDIA
+Bedrich Benes,Purdue University
+Amit H. Bermano,Tel Aviv University
+Mikhail Bessmeltsev,University of Montreal
+Nicolas Bonneel,"CNRS, University of Lyon"
+Marcel Campen,Osnabrück University
+Jiawen Chen,Adobe Inc.
+Sunghee Choi,Korea Advanced Institute of Science and Technology (KAIST)
+Daniel Cohen-Or,Tel Aviv University
+Angela Dai,Technical University of Munich
+Fernando de Goes,Pixar
+Tali Dekel,"Google Inc., Weizmann Institute"
+Julie Digne,"CNRS, LIRIS"
+George Drettakis,"INRIA, Université Côte d’Azur"
+Sanja Fidler,"University of Toronto, NVIDIA"
+Matthew Fisher,Adobe Research
+Ohad Fried,Th e Interdisciplinary Center Herzliya
+Chi Wing Fu,Chinese University of Hong Kong
+Hongbo Fu,"City University of Hong Kong; CS Dept, Tsinghua University"
+Th omas Funkhouser,"Princeton University, Google Research"
+Yotam Gingold,George Mason University
+Ioannis Gkioulekas,Carnegie Mellon University
+Yulia Gryaditskaya,"CVSSP, University of Surrey"
+Sehoon Ha,"Georgia Institute of Technology, Google Inc."
+Rana Hanocka,University of Chicago
+Mingming He,USC Institute for Creative Technologies (ICT)
+Peter Hedman,Google Inc.
+Felix Heide,"Princeton University, Algolux"
+Philipp Herholz,ETH
+Nicolas Holzschuch,INRIA
+Hui Huang,Shenzhen University
+Jia-Bin Huang,"Meta; University of Maryland, College Park"
+Matthias Hullin,University of Bonn
+Takeo Igarashi,"University of Tokyo, Preferred Networks"
+Angjoo Kanazawa,UC Berkeley
+Danny Kaufman,Adobe
+Min H. Kim,Korea Advanced Institute of Science and Technology (KAIST)
+Taku Komura,"University of Hong Kong, University of Edinburgh"
+Mina Konakovic-Lukovic,MIT
+Johannes Kopf,"Facebook, Oculus"
+Kyros Kutulakos,University of Toronto
+Jehee Lee,"Seoul National University, Movement Research Lab."
+Sung-Hee Lee,Korea Advanced Institute of Science and Technology (KAIST)
+David Levin,"University of Toronto, NVIDIA"
+Tzu-Mao Li,"University of California, San Diego"
+Ming Lin,"University of Maryland, University of North Carolina"
+Lingjie Liu,Max-Planck-Institut für Informatik
+Rafal K. Mantiuk,"University of Cambridge; Meta Platforms, Inc."
+Rachel McDonnell,Trinity College Dublin
+Pooran Memari,"CNRS, Ecole Polytechnique"
+Dominik Michels,KAUST
+Rahul Narain,Indian Institute of Technology Delhi
+Maks Ovsjanikov,École Polytechnique
+Nancy Pollard,Carnegie Mellon University
+Gerard Pons-Moll,University of Tübingen
+Jonathan Ragan-Kelley,"MIT CSAIL, UC Berkeley"
+Daniel Ritchie,Brown University
+Tobias Ritschel,University College London (UCL)
+Adriana Schulz,University of Washington
+Ana Serrano,Universidad de Zaragoza - I3A
+Tianjia Shao,"State Key Lab of CAD and CG, Zhejiang University"
+Alla Sheff er,"University of British Columbia, Amazon"
+Hao Su,UCSD
+Andrea Tagliasacchi,"Google Canada, University of Toronto"
+Siyu Tang,ETH Zürich
+Nils Th uerey,Technical University of Munich
+Xin Tong,Microsoft
+Wenping Wang,"Texas A&M University, University of Hong Kong"
+Huamin Wang,"Style3D Research, Th e Ohio State University"
+Alexander Wilkie,"Charles University, Prague"
+Feng Xu,Tsinghua University
+Ling-Qi Yan,UC Santa Barbara
+Yuting Ye,"Reality Labs Research, Meta"
+Sai-Kit Yeung,Hong Kong University of Science and Technology
+Lap-Fai Yu,George Mason University
+Hao (Richard) Zhang,"Simon Fraser University, Amazon"
+Shuang Zhao,University of California Irvine
+Bo Zhu,Dartmouth College
+Hugues Hoppe,Unknown
+Carol O’Sullivan,Unknown
+Holly Rushmeier,Unknown
+Chris Wojtan,Unknown
+Steve Marschner,Unknown
+Sylvain Paris,Unknown
+Alla Sheff er,Unknown
+Jaakko Lehtinen,Unknown
+Michael Wimmer,Unknown
+Wolfgang Heidrich,Unknown
+Aaron Hertzmann,Unknown
+Alla Sheff er,Unknown
+Michael Wimmer,Unknown
+Maneesh Agrawala,Unknown
+Kavita Bala,Unknown
+Bernd Bickel,Unknown
+Tao Ju,Unknown
+Jaakko Lehtinen,Unknown
+Ming Lin,Unknown
+Xin Tong,Unknown
+Michiel van de Panne,Unknown
+Chris Wojtan,Unknown
+Kun Zhou,Unknown
+Denis Zorin,Unknown
+Miika Aittala,Unknown
+Hadar Averbuch-Elor,Unknown
+Moritz Baecher,Unknown
+Christopher Batty,Unknown
+Mirela Ben-Chen,Unknown
+Bedrich Benes,Unknown
+Amit H. Bermano,Unknown
+Florence Bertails-Descoubes,Unknown
+Mikhail Bessmeltsev,Unknown
+David Bommes,Unknown
+Tamy Boubekeur,Unknown
+Adrien Bousseau,Unknown
+Derek Bradley,Unknown
+Marcel Campen,Unknown
+Nathan Carr,Unknown
+Duygu Ceylan,Unknown
+Siddhartha Chaudhuri,Unknown
+Jiawen Chen,Unknown
+Fanny Chevalier,Unknown
+Piotr Didyk,Unknown
+Julie Digne,Unknown
+Elmar Eisemann,Unknown
+Ohad Fried,Unknown
+Chi Wing Fu,Unknown
+Lin Gao,Unknown
+Eitan Grinspun,Unknown
+Yulia Gryaditskaya,Unknown
+Diego Gutierrez,Unknown
+Rana Hanocka,Unknown
+Peter Hedman,Unknown
+Felix Heide,Unknown
+Jessica Hodgins,Unknown
+Ruizhen Hu,Unknown
+Jia-Bin Huang,Unknown
+Jin Huang,Unknown
+Takeo Igarashi,Unknown
+Wenzel Jakob,Unknown
+Anton Kaplanyan,Unknown
+Danny Kaufman,Unknown
+Vladimir Kim,Unknown
+Taku Komura,Unknown
+Mina Konakovic-Lukovic,Unknown
+Sylvain Lefebvre,Unknown
+Anat Levin,Unknown
+Wilmot Li,Unknown
+Ming Lin,Unknown
+Lingjie Liu,Unknown
+Marco Livesu,Unknown
+Rafal K. Mantiuk,Unknown
+Belen Masia,Unknown
+James McCann,Unknown
+Dominik Michels,Unknown
+Rahul Narain,Unknown
+Michael Neff,Unknown
+Carol O'Sullivan,Unknown
+Nico Pietroni,Unknown
+Yael Pritch,Unknown
+Jing Ren,Unknown
+Tobias Ritschel,Unknown
+Holly Rushmeier,Unknown
+Manolis Savva,Unknown
+Adriana Schulz,Unknown
+Ariel Shamir,Unknown
+Tianjia Shao,Unknown
+Tamar Shinar,Unknown
+Melina Skouras,Unknown
+Philipp Slusallek,Unknown
+Markus Steinberger,Unknown
+Hao Su,Unknown
+Shinjiro Sueda,Unknown
+Andrea Tagliasacchi,Unknown
+Bernhard Th omaszewski,Unknown
+Beibei Wang,Unknown
+Rui Wang,Unknown
+Bin Wang,Unknown
+Huamin Wang,Unknown
+Wenping Wang,Unknown
+Li-Yi Wei,Unknown
+Gordon Wetzstein,Unknown
+Alexander Wilkie,Unknown
+Feng Xu,Unknown
+Ling-Qi Yan,Unknown
+Yuting Ye,Unknown
+Lap-Fai Yu,Unknown
+Shuang Zhao,Unknown
+Yi Zhou,Unknown
+Bo Zhu,Unknown
+Denis Zorin,Unknown
+Andrew Adams,Unknown
+Marco Attene,Unknown
+Robert Bridson,Unknown
+Angel Chang,Unknown
+Stelian Coros,Unknown
+Eugene d'Eon,Unknown
+Iliyan Georgiev,Unknown
+Michael Gharbi,Unknown
+Toshiya Hachisuka,Unknown
+Bernhard Kerbl,Unknown
+Sung-Hee Lee,Unknown
+Céline Loscos,Unknown
+Wojciech Matusik,Unknown
+Matthew O'Toole,Unknown
+Michael Rubinstein,Unknown
+Eli Shechtman,Unknown
+Peter-Pike Sloan,Unknown
+Marc Stamminger,Unknown
+Kartic Subr,Unknown
+Daniel Sykora,Unknown
+Matthias Teschner,Unknown
+Christian Th eobalt,Unknown
+Nils Th uerey,Unknown
+Amir Vaxman,Unknown
+Nicholas Vining,Unknown
+Michael Wand,Unknown
+Tim Weyrich,Unknown
+Emily Whiting,Unknown
+Changxi Zheng,Unknown
+Tomasz Bednarz,"CSIRO Data61, UNSW Art & Design, Australia"
+Sarah Kenderdine,"ArtLab Laboratory for Experimental Museology (Em+), Switzerland"
+June Kim,"The University of New South Wales, Australia"
+Michael Hsin-Yao Liang,"Silkroad Visual Technologies Co., LTD, Taiwan"
+Pol Jeremias-Vila,"Pixar Animation Studios, USA"
+Jinny H.J. Choo,"Korea National University of Arts, South Korea"
+Sai-Kit Yeung,"The Hong Kong University of Science and Technology, Hong Kong"
+John Doolan,"Virtual Immersive, Australia"
+Joe Cincotta,"Thinking.Studio, Australia"
+Alyn Rockwood,"Boulder Graphics, USA"
+Brian Wyvill,"University of Victoria, Canada"
+Matt Adcock,"CSIRO Data61, Australia"
+Yuta Sugiura,"Keio University, Japan"
+Mark Elendt,"SideFX, Canada"
+Stephen N. Spencer,"University of Washington, USA"
+Mike Seymour,"Sydney University, Australia"
+Xin Tong,"Microsoft Research, China"
+Belen Masia,"Universidad de Zaragoza, Spain"
+C. Karen Liu,"Stanford University, USA"
+Mark Billinghurst,"University of Auckland, New Zealand, University of South Australia, Australia"
+Arindam Dey,"University of Queensland, Australia"
+Bruce H. Thomas,"University of South Australia, Australia"
+Norbert Drage,"Curtin University, Australia"
+Daniel Filonik,"EPICentre, UNSW Art & Design, Australia"
+Ian Failes,"Vfxblog, Australia"
+Craig James,"CSIRO, Australia"
+John McGhee,"University of New South Wales, Art & Design, Australia"
+Luc Betbeder-Matibet,"University of New South Wales, Sydney, Australia"
+Rick Xu,"Shenzhen ACM SIGGRAPH Chapter, China"
+Ayumi Kimura,"Research Manager at OLM Digital, Inc., Japan / Program Manager and Collaboration Coordinator at CMIC, Victoria University of Wellington, New Zealand"
+Diana Arellano,"Mackevision, Germany"
+Jessica Hodgins,"Carnegie Mellon University, USA"
+Surapong Lertsithichai,"Mahidol University, Thailand"
+Mashhuda Glencross,"The University of Queensland, Australia"
+David Spoelstra,"MediaMachine LLC, USA"
+Prakash Ramajillu,"Koelnmesse Pte Ltd, Singapore"
+Ken Anjyo,"Executive Advisor at OLM Digital, Inc. / Director at CMIC, Victoria University of Wellington"
+Jinny H.J. Choo,"Korea National University of Arts, South Korea"
+Shuzo John Shiota,"Polygon Pictures Inc., Japan"

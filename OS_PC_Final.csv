@@ -1,0 +1,283 @@
+Ada Gavrilovska,[Georgia Institute of Technology]
+Adam Belay,"[MIT CSAIL, Massachusetts Institute of Technology, MIT]"
+Adam Chlipala,[MIT]
+Adriana Szekeres,[VMware Research]
+Aishwarya Ganesan,[University of Illinois at Urbana-Champaign and VMware Research]
+Akshitha Sriraman,[Carnegie Mellon University and Google]
+Alex C. Snoeren,"[University of California, San Diego]"
+Alexandra Fedorova,[University of British Columbia]
+Alexey Tumanov,[Georgia Institute of Technology]
+Allen Clement,[nan]
+Amar Phanishayee,[Microsoft Research]
+Amin Vahdat,"[Google, Google and University of California, San Diego, Google, UCSD]"
+Amit Levy,[Princeton University]
+Amy Ousterhout,"[University of California, Berkeley]"
+Amy Tai,[VMware Research]
+Ana Klimovic,"[ETH Zurich, Google Research and ETH Zurich]"
+Andrea Arpaci-Dusseau,[University of Wisconsin—Madison]
+Andreas Haeberlen,"[University of Pennsylvania and Roblox, University of Pennsylvania]"
+Andrew Baumann,[Microsoft Research]
+Andrew Quinn,"[University of California, Santa Cruz]"
+Andrew Warfield,[Amazon]
+Angela Demke Brown,"[University of Toronto, Toronto]"
+Anja Feldmann,[Max Planck Institute for Informatics (MPI-INF)]
+Anne-Marie Kermarrec,[EPFL]
+Annette Bieniusa,[Technische Universität Kaiserslautern]
+Anthony D. Joseph,"[University of California, Berkeley]"
+Antoine Kaufmann,[Max Planck Institute for Software Systems (MPI-SWS)]
+Arvind Krishnamurthy,[University of Washington]
+Asaf Cidon,[Columbia University]
+Ashvin Goel,[University of Toronto]
+Atul Adya,"[Databricks, Google]"
+Aurojit Panda,"[New York University, NYU]"
+Baris Kasikci,"[University of Michigan, University of Michigan and Google, Michigan]"
+Behnaz Arzani,[Microsoft Research]
+Bernard Wong,[University of Waterloo]
+Brad Chen,[Google]
+Brad Karp,[University College London]
+Brian Levine,[University of Massachusetts Amherst]
+Brian Noble,[University of Michigan]
+Bryan Ford,[EPFL]
+Bryan Parno,[Carnegie Mellon University]
+Byung-Gon Chun,"[Seoul National University and FriendliAI, Seoul National University]"
+Carey Williamson,[University of Calgary]
+Carlos Maltzahn,[UCSC]
+Casey Henderson,[USENIX Association]
+Ce Zhang,[ETH Zurich]
+Changwoo Min,[Virginia Tech]
+Cheng Li,"[USTC, China]"
+Chris Hawblitzel,"[Microsoft Research, Microsoft Research Redmond]"
+Chris Rossbach,"[UT Austin and VMware Research, Texas]"
+Christoforos Kozyrakis,[Stanford University]
+Christopher Rossbach,[The University of Texas at Austin and Katana Graph]
+Christos Kozyrakis,[Stanford University]
+Chuanxiong Guo,[ByteDance]
+Costin Raiciu,[University Politehnica of Bucharest]
+Cristiano Giuffrida,[Vrije Universiteit Amsterdam]
+Cristina Nita-Rotaru,[Northeastern University]
+Dan Ports,[Microsoft Research]
+Dan Tsafrir,"[Technion—Israel Institute of Technology and VMware Research, VMware Research and Technion—Israel Institute of Technology]"
+Daniel Peek,[Meta]
+David Andersen,[CMU]
+David Richardson,[Apple]
+Deepak Narayanan,[Microsoft Research]
+Deian Stefan,[UCSD]
+Dejan Kostic,[KTH Royal Institute of Technology]
+Dejan Kostić,[KTH Royal Institute of Technology]
+Deniz Altinbüken,[Google]
+Derek Murray,[Google]
+Dilma Da Silva,[Texas A&M University]
+Dimitrios Skarlatos,[Carnegie Mellon University]
+Ding Yuan,"[University of Toronto, University of Toronto and YScope]"
+Don Porter,"[The University of North Carolina at Chapel Hill, Univ. of North Carolina-Chapel Hill, UNC]"
+Dongyoon Lee,[Stony Brook University]
+Doug Terry,"[Amazon Web Services, Amazon]"
+Dushyanth Narayanan,"[Microsoft Research, Microsoft Research Cambridge]"
+Ed Nightingale,[Apple]
+Eddie Kohler,"[Harvard University, Harvard]"
+Edouard Bugnion,"[EPFL, École Polytechnique Fédérale de Lausanne (EPFL)]"
+Eiko Yoneki,[University of Cambridge]
+Emery Berger,"[University of Massachusetts Amherst, UMass Amherst]"
+Emmett Witchel,"[The University of Texas at Austin, UT Austin and Katana Graph, Texas]"
+Fernando Pedone,[University of Lugano]
+Frank Bellosa,[Karlsruhe Institute of Technology]
+Frans Kaashoek,[Massachusetts Institute of Technology]
+Gala Yadgar,"[Technion—Israel Institute of Technology, Technion - Israel Institute of Technology]"
+Garth A. Gibson,"[Vector Institute, Carnegie Mellon University, and University of Toronto]"
+Gennady Pekhimenko,[University of Toronto and Vector Institute]
+Geoff Voelker,"[University of California, San Diego]"
+George Candea,[EPFL]
+Gerd Zellweger,[VMware Research]
+Gernot Heiser,"[University of New South Wales and CSIRO’s Data61, UNSW Sydney, UNSW / NICTA, UNSW, Australia]"
+Gilles Muller,"[Inria, INRIA, INRIA, France]"
+Haibo Chen,"[Shanghai Jiao Tong University, SJTU, China]"
+Haifeng Yu,[National University of Singapore]
+Hakim Weatherspoon,"[Cornell University and Exotanium, Inc., Cornell University]"
+Hank Levy,[University of Washington]
+Harry Xu,"[University of California, Los Angeles]"
+Harsha V. Madhyastha,[University of Michigan]
+Haryadi Gunawi,"[University of Chicago, Chicago]"
+Haryadi S. Gunawi,[University of Chicago]
+Heming Cui,[University of Hong Kong]
+Hermann Haertig,[TU Dresden]
+Hongyi Wang,[CMU]
+Hyeontaek Lim,[Google]
+Indranil Gupta,[University of Illinois at Urbana–Champaign]
+Ion Stoica,[UC Berkeley]
+Irene Zhang,"[Microsoft Research, Microsoft Research Redmond, Microsoft]"
+Irina Calciu,"[Graft, VMware Research]"
+Ittay Eyal,"[Technion—Israel Institute of Technology, Technion]"
+James Bornholt,[The University of Texas at Austin]
+James Mickens,"[Harvard University, Harvard]"
+Jason Flinn,"[Meta, Facebook, University of Michigan]"
+Jason Nieh,[Columbia University]
+Jay Lorch,[Microsoft Research]
+Jeff Mogul,[Google]
+Jeremy Andrus,[Apple]
+Ji-Yong Shin,[Northeastern University]
+Jialin Li,"[National University of Singapore, National University of Singapore (NUS)]"
+Jinyang Li,"[New York University, NYU]"
+Joe Izraelevitz,"[University of Colorado, Boulder]"
+Joey Gonzalez,[UC Berkeley]
+John Wilkes,[Google]
+Jon Crowcroft,[University of Cambridge]
+Jon Howell,[VMware Research]
+Jonathan Mace,"[Max Planck Institute for Software Systems (MPI-SWS), Max Planck Institute for Software Systems (MPI-SWS) and Microsoft Research]"
+Joseph Gonzalez,"[University of California, Berkeley]"
+Julia Lawall,[Inria/LIP6]
+Junfeng Yang,"[Columbia University, Columbia]"
+Justine Sherry,"[Carnegie Mellon University, CMU]"
+Kai Shen,[Google]
+Kang Chen,[Tsinghua University]
+Kathryn S McKinley,[Google]
+Kathryn S. McKinley,[Google]
+Kaushik Veeraraghavan,[Facebook]
+Kay Ousterhout,[Lightstep]
+Keith Smith,[NetApp]
+Ken Birman,[Cornell University]
+Keval Vora,[Simon Fraser University]
+Kevin Kornegay,[Morgan State University]
+Kimberly Keeton,"[nan, Hewlett Packard Labs, Google]"
+Kiran-Kumar Muniswamy-Reddy,[Amazon]
+Kostas Magoutis,[University of Crete and FORTH-ICS]
+KyoungSoo Park,"[Korea Advanced Institute of Science and Technology (KAIST), KAIST, KAIST, Korea]"
+Lalith Suresh,[VMware Research]
+Landon Cox,"[Microsoft Research, Duke University]"
+Lanjun Wang,[Tianjin University]
+Leonid Ryzhyk,[VMware]
+Lidong Zhou,"[Microsoft Research, Microsoft Research Asia]"
+Lin Zhong,[Yale University]
+Liuba Shrira,[Brandeis University]
+Lorenzo Alvisi,"[Cornell University, Cornell]"
+Luis Rodrigues,"[INESC-ID and Instituto Superior Técnico, University of Lisbon]"
+Madan Musuvathi,[Microsoft Research]
+Mahesh Balakrishnan,"[Confluent, Facebook, Yale University/Facebook]"
+Malte Schwarzkopf,[Brown University]
+Manos Kapritsos,[University of Michigan]
+Manuel Costa,[Microsoft Research]
+Manya Ghobadi,"[Massachusetts Institute of Technology, MIT]"
+Marc Shapiro,"[Sorbonne-Université–LIP6 and Inria, Inria and UPMC-LIP6]"
+Marco Canini,[KAUST]
+Marco Serafini,[University of Massachusetts Amherst]
+Marcos K. Aguilera,[VMware Research]
+Margo Seltzer,[University of British Columbia]
+Mark Silberstein,"[Technion-Israel Institute of Technology, Technion]"
+Marko Vukolić,[IBM Research - Zurich]
+Marta Pati˜no,"[Universidad Polit´ecnica de Madrid, Spain]"
+Martin Maas,[Google]
+Matei Zaharia,[Stanford University]
+Mathias Lécuyer,[University of British Columbia]
+Meng,[The University of Texas at Arlington]
+Michael Isard,"[Google Research, Google]"
+Michael Kaminsky,[BrdgAI/CMU]
+Michael Stumm,[University of Toronto]
+Michael Swift,[University of Wisconsin—Madison]
+Miguel Castro,"[Microsoft, Microsoft Research Cambridge]"
+Ming Wu,[Microsoft Research]
+Minlan Yu,[Harvard University]
+Mohammad Alizadeh,[MIT]
+Mosharaf Chowdhury,[University of Michigan]
+Moshe Gabel,[University of Toronto]
+Murat Demirbas,[Amazon Web Services]
+Muthian Sivathanu,"[Microsoft, India]"
+Nadav Amit,[VMware Research]
+Natacha Crooks,"[University of California, Berkeley, UC Berkeley]"
+Neha Narula,[Massachusetts Institute of Technology]
+Nickolai Zeldovich,"[Massachusetts Institute of Technology, MIT]"
+Nitin Agrawal,"[Google, ThoughtSpot]"
+Noa Zilberman,[Oxford University]
+Oana Balmau,[McGill University]
+Oriana Riva,[Microsoft Research]
+Orran Krieger,[Boston University]
+Peter Chen,[Michigan]
+Peter Druschel,[Max Planck Institute for Software Systems (MPI-SWS)]
+Peter Macko,[MongoDB]
+Peter Pietzuch,[Imperial College London]
+Petros Maniatis,"[Google Research, Google]"
+Philip Gibbons,[Carnegie Mellon University]
+Philip Levis,"[Google and Stanford University, Stanford University]"
+Phillip Gibbons,[Carnegie Mellon University]
+Phillip Stanley-Marbell,[University of Cambridge]
+Pramod Bhatotia,[Technische Universität Munich]
+Rachit Agarwal,[Cornell University]
+Radhika Mittal,[University of Illinois at Urbana–Champaign]
+Raluca Ada Popa,[UC Berkeley]
+Raluca Popa,"[University of California, Berkeley, UC Berkeley, Berkeley]"
+Ramakrishna Kotla,[Amazon Web Services]
+Ramnatthan Alagappan,[University of Illinois at Urbana–Champaign]
+Ranjita Bhagwan,"[Microsoft Research, Microsoft Research India]"
+Rashmi Vinayak,[Carnegie Mellon University]
+Ratul Mahajan,[University of Washington and Intentionet]
+Ravi Netravali,"[Princeton University, University of California, Los Angeles]"
+Rebecca Isaacs,"[Twitter, Amazon Web Services]"
+Remzi H. Arpaci-Dusseau,[University of Wisconsin]
+Reto Achermann,[University of British Columbia]
+Richard Mortier,[University of Cambridge]
+Robbert van Renesse,[Cornell University]
+Robert Morris,"[Massachusetts Institute of Technology, MIT]"
+Robert Soulé,[Yale University]
+Rodrigo Bruno,"[INESC-ID and Instituto Superior Técnico, University of Lisbon]"
+Rodrigo Rodrigues,"[Instituto Superior Técnico (IST - ULisboa), INESC-ID]"
+Roger Wattenhofer,[ETH Zurich]
+Rong Chen,[Shanghai Jiao Tong University]
+Ronghui Gu,[Columbia University]
+Roxana Geambasu,[Columbia University]
+Ryan Huang,"[Johns Hopkins University, University of Michigan, John Hopkins University]"
+Ryan Stutsman,"[University of Utah, Utah]"
+Rüdiger Kapitza,"[Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Universität Braunschweig]"
+Sam H. Noh,"[UNIST (Ulsan National Institute of Science and Technology), Virginia Tech]"
+Sam King,"[University of California, Davis]"
+Sam Noh,"[UNIST, Korea]"
+Samer Al-Kiswany,[Waterloo]
+Sandhya Dwarkadas,[University of Rochester]
+Sangeetha Abdu Jyothi,"[University of California, Irvine, and VMware Research]"
+Sanjeev Kumar,[Uber]
+Sarah Meiklejohn,[University College London]
+Sasha Federova,[UBC]
+Sasha Fedorova,[University of British Columbia]
+Sebastian Angel,[University of Pennsylvania]
+Shadi Noghabi,[Microsoft Research]
+Shan Lu,"[University of Chicago, Microsoft Research and University of Chicago]"
+Shivaram Venkataraman,"[University of Wisconsin—Madison, Wisconsin]"
+Simon Peter,"[The University of Texas at Austin, University of Washington, UT Austin]"
+Sorav Bansal,[Indian Institute of Technology Delhi]
+Stefan Savage,"[University of California, San Diego]"
+Steve Hand,[Google]
+Steve Swanson,"[University of California, San Diego, UC San Diego]"
+Steven Hand,[Google]
+Sujata Banerjee,"[VMware Research, VMware]"
+Swami Sundararaman,[Pyxeda AI]
+Taesoo Kim,"[Georgia Institute of Technology, Georgia Tech]"
+Theophilus A. Benson,[Brown University]
+Thomas Anderson,[University of Washington]
+Thomas Moscibroda,[Microsoft]
+Thomas Pasquier,[University of British Columbia]
+Tianyin Xu,"[University of Illinois at Urbana–Champaign, University of Illinois at Urbana-Champaign, UIUC]"
+Tim Brecht,[University of Waterloo]
+Tim Harris,"[Microsoft, Amazon]"
+Tim Wood,[George Washington University]
+Timothy Roscoe,[ETH Zurich]
+Tom Anderson,[University of Washington]
+Tom Ristenpart,[Cornell]
+Vasily Tarasov,[IBM Research - Almaden]
+Vijay Chidambaram,"[The University of Texas at Austin and VMware Research, The University of Texas at Austin, Texas]"
+Vishal Shrivastav,[Purdue University]
+Vyas Sekar,[Carnegie Mellon University]
+Wenguang Chen,[Tsinghua University]
+Wenjun Hu,"[Yale University, Yale]"
+Wenting Zheng,"[University of California, Berkeley, and Carnegie Mellon University]"
+Wyatt Lloyd,[Princeton University]
+Xi Wang,[University of Washington]
+Xiaosong Ma,[Quatar Computing Research Institute]
+Y. Charlie Hu,[Purdue University]
+Yang Wang,[The Ohio State University]
+Yiying Zhang,"[University of California, San Diego, Purdue University, UC San Diego, Purdue]"
+Ymir Vigfusson,[Emory University]
+Yossi Gilad,"[Hebrew University of Jerusalem, The Hebrew University of Jerusalem]"
+Yu Chen,"[Tsinghua, China]"
+Yu Hua,[Huazhong University of Science and Technology]
+Yuanyuan Zhou,"[University of California, San Diego, University of California San Diego]"
+Yubin Xia,[Shanghai Jiao Tong University]
+Yufei Ding,"[University of California, Santa Barbara]"
+Z. Morley Mao,"[University of Michigan and Google, University of Michigan]"
+Zsolt István,[IT University of Copenhagen]

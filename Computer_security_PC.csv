@@ -1,0 +1,1861 @@
+name,affiliation
+Cas Cremers,CISPA Helmholtz Center for Information Security
+Engin Kirda,Northeastern University
+Manuel Egele,Boston University
+Nick Nikiforakis,Stony Brook University
+Leyla Bilge,NortonLifeLock Research Group
+Steve Kremer,Inria
+Veelasha Moonsamy,Ruhr University Bochum
+Dario Fiore,IMDEA Software Institute
+Selcuk Uluagac,Florida International University
+Elissa Redmiles,Max Planck Institute
+Ghassan Karame,Ruhr-University Bochum
+Rob Jansen,U.S. Naval Research Laboratory
+Sadia Afroz,ICSI
+Abdelrahaman Aly,CRC - TII and imec-COSIC - KU Leuven
+Hassan Asghar,Macquarie University
+Erman Ayday,Case Western Reserve University
+Diogo Barradas,University of Waterloo
+Pascal Berrang,University of Birmingham
+Duc Bui,Snap Inc.
+Melissa Chase,Microsoft Research
+Min Chen,CISPA
+Amrita Roy Chowdhury,UCSD
+Aloni Cohen,University of Chicago
+Debajyoti Das,KU Leuven
+Bolin Ding,Alibaba
+Tariq Elahi,University of Edinburgh
+Saba Eskandaria,UNC Chapel Hill
+Ellis Fenske,U.S. Naval Academy
+Sébastien Gambs,Université du Québec à Montréal
+Emre Gürsoy,Koç University
+Ryan Henry,University of Calgary
+Sanghyun Hong,Oregon State University
+Nicholas Hopper,University of Minnesota
+Amir Houmansadr,University of Massachusetts Amherst
+Aaron Johnson,U.S. Naval Research Laboratory
+Marc Juarez,University of Edinburgh
+Dali Kaafar,Macquarie University
+Pritish Kamath,Google
+Marcel Keller,CSIRO's Data61
+Katharina Kohls,Radboud University
+Christiane Kuhn,NEC Laboratories Europe
+Wouter Lueks,CISPA
+Saeed Mahloujifar,Princeton University
+Anna Maria Mandalari,Imperial College London
+Pasin Manurangsi,Google
+Meisam Mohammady,Iowa State University
+Milad Nasr,Google Brain
+Joseph Near,University of Vermont
+Benjamin Nguyen,INSA Centre Val de Loire
+Rishab Nithyanand,University of Iowa
+Simon Oya,University of Waterloo
+Dario Pasquini,EPFL
+Balazs Pejo,BME
+Apostolos Pyrgelis,EPFL
+Joel Reardon,University of Calgary
+Thorsten Strufe,Karlsruhe Institute of Technology
+Yixin Sun,University of Virgina
+Michael Carl Tschantz,ICSI
+Di Wang,King Abdullah University of Science and Technology
+Tianhao Wang,University of Virginia
+Liang Wang,Princeton University
+Christian Weinert,University of London
+Christopher Wood,Cloudflare
+Xiaokui Xiao,National University Singapore
+Arkady Yerukhimovich,George Washington University
+Zhikun Zhang,Stanford
+Yousra Aafer,University of Waterloo
+Gunes Acar,Radboud University
+Juan Caballero,IMDEA
+Stefano Calzavara,Università Ca’ Foscari Venezia
+Niklas Carlsson,Linkoping University
+Aurore Fass,Stanford
+Bahruz Jabiyev,Cold Spring Harbor Laboratory
+Martin Johns,TU Braunschweig
+Amin Kharraz,Florida International University
+Pierre Laperdrix,CNRS
+Xiaojing Liao,Indiana University Bloomington
+Meng Luo,Zhejiang University
+Wei Meng,CUHK
+Shirin Nilizadeh,UTA
+Giancarlo Pellegrino,CISPA
+Roberto Perdisci,University of Georgia
+Jason Polakis,UIC
+Amir Rahmati,Stony Brook University
+Tamara Rezk,INRIA
+Andrei Sabelfeld,Chalmers
+Merve Sahin,SAP
+Brendan Saltaformaggio,Georgia Tech
+Iskander Sanchez-Rola,NortonLifeLock
+Anastasia Shuba,DuckDuckGo
+Sooel Son,KAIST
+Cristian-Alexandru Staicu,CISPA
+Oleksii Starov,Palo Alto Networks
+Phani Vadrevu,University of New Orleans
+Kevin Borgolte,Ruhr University Bochum
+Ang Chen,Rice University
+Jianjun Chen,Tsinghua University
+Jedidiah R. Crandall,Arizona State University
+Lorenzo De Carli,University of Calgary
+Shuang Hao,University of Texas
+Wajah UI Hassan,University of Virginia
+Hongxin Hu,University of Buffalo
+Syed Rafiul Hussain,PennState
+Mattijs Jonker,University of Twente
+Min Suk Kang,Kaist
+Yongdae Kim,Kaist
+Platon Kotzias,Norton Research Group
+Qi Li,Tsinghua University
+Yao Liu,University of South Florida
+Alan Zaoxing Liu,Boston University
+Zhuotao Liu,Tsinghua University
+Xiapu Luo,The Hong Kong Polytechnic University
+Jeremiah Onaolapo,University of Vermout
+Michalis Polychronakis,Stony brook University
+Kasper Rasmussen,University of Oxford
+Chao Shen,Jiaotong University
+Kun Sun,George Mason University
+Andreas Terzis,Google
+Ning Zhang,Washington University St. Louis
+Yue Zhang,Ohio State University
+Mario Alvim,Federal University of Minas Gerais
+Myrto Arapinis,University of Edinburgh
+Owen Arden,UC Santa Cruz
+David Baelde,ENS Rennes
+Musard Balliu,KTH Royal Institute of Technology
+Ioana Boureanu,University of Surrey
+Limin Jia,CMU
+Adrien Koutsos,INRIA Paris
+Matteo Maffei,TU Wien
+Toby Murray,University of Melbourne
+Frank Piessens,KU Leuven
+Masayuki Abe,NTT Social Informatics Laboratories
+Shweta Agrawal,Indian Institute of Technology
+Foteini Baldimtsi,George Mason University
+Foteini Baldimtsi,George Mason University
+Manuel Barbosa,University of Porto
+Matteo Campanelli,Protocol Labs
+Dario Catalano,University of Catania
+Sherman S. M. Chow,The Chinese University of Hong Kong
+Anamaria Costache,Norwegian University of Science and Technology (NTNU)
+Gareth T. Davies,University of Wuppertal
+Gabrielle De Micheli,UCSD
+Jean Paul Degabriele,Technology Innovation Institute
+Daniel Escudero,JP Morgan AI Research
+Sebastian Faust,TU Darmstadt
+Ben Fisch,Yale University
+Marc Fischlin,TU Darmstadt
+Benjamin Fuller,University of Connecticut
+Chaya Ganesh,Indian Institute of Science
+Adria Gascon,Google
+Esha Ghosh,Microsoft Research
+Zichen Gui,ETH
+Divya Gupta,Microsoft Research
+Lucjan Hanzlik,CISPA
+Tibor Jager,University of Wuppertal
+Gabriel Kaptchuk,Boston University
+Ngoc Khanh Nguyen,EPFL
+Russell Lai,Aalto University
+Kim Laine,Microsoft Research
+Julian Loss,CISPA
+Bernardo Magri,The University of Manchester
+Antonio Marcedone,Zoom
+Daniel Masny,Meta
+Bart Mennink,Radboud University
+Tarik Moataz,MongoDB
+Pratyay Mukherjee,SupraOracles Research
+Ryo Nishimaki,NTT
+Anca Nitulescu,Protocol Labs
+Michele Orrù,University of Berkeley / Sorbonne University
+Dimitrios Papadopoulos,University of Science and Technology
+Arpitra Patra,Indian Institute of Science
+Giuseppe Persiano,University of Salerno
+Bertram Poettering,IBM Research Zurich
+Yuriy Polyakov,Duality Technologies
+Antigoni Polychroniadou,J.P. Morgan AI research
+Bart Preneel,Univ. of Leuven
+Mariana Raykova,Google
+Christian Rechberger,TU Graz
+Eyal Ronen,Tel Aviv University
+Adeline Roux-Langlois,IRISA
+Andy Rupp,University of Luxembourg and KASTEL Security Research Labs
+Dominique Schröder,Friedrich-Alexander-Universität Erlangen-Nürnberg
+Abhi shelat,Northeastern University
+Daniel Slamanig,AIT Austrian Institute of Technology
+Yongsoo Song,Seoul National University
+Ajith Suresh,TU Darmstadt
+Akira Takahashi,University of Edinburgh
+Sri Aravinda Krishnan Thyagarajan,Carnegie Mellon University
+Ni Trieu,Arizona State University
+Yiannis Tselekounis,Carnegie Mellon University
+Aleksei Udovenko,University of Luxembourg
+Xiao Wang,Northwestern University
+David Wu,University of Texas at Austin
+Jiayu Xu,Oregon State University
+Bo-Yin Yang,Academia Sinica
+Yu Yu,Shanghai Jiao Tong University
+Greg Zaverucha,Microsoft Research
+Yupeng Zhang,Texas A&M
+Jiang Zhang,State Key Laboratory of Cryptology
+Wenting Zheng,CMU
+Ruba Abu-Salma,Kings College London
+Taslima Akter,UC Irvine
+Nalin Arachchilage,University of Auckland
+Guangdong Bai,University of Queensland
+Patricia Cabarcos,Universität Paderborn
+Rahul Chatterjee,University of Wisconsin-Madison
+Anupam Das,NCSU
+Ali Farooq,University of Turku
+Tobias Fiebig,MPI-Inf
+Carlos Gañán,ICANN
+Bailey Kacsmar,U Waterloo
+Frank Li,Georgia Tech
+Jingjie Li,U Wisconsin-Madison
+Mainack Mondal,IIT
+Tatsuya Mori,Waseda University
+Sai Teja Peddinti,Google
+Sazzadur Rahaman,U of Arizona
+Nitesh Saxena,Texas A&M
+Jose Such,Kings College London
+Blase Ur,University of Chicago
+Lun Wang,Google
+Tina Wu,Data61
+Savvas Zannettou,TU Delft
+Yixin Zou,MPI-SP
+Ittai Abraham,VMWare
+Ghada Almashaqbeh,University of Connecticut
+Frederik Armknecht,University of Mannheim
+Zeta Avarikioti,TU Wien
+Massimo Bartoletti,University of Cagliari
+Alysson Bessani,University of Lisbon
+Jing Chen,Algorand
+Jeremy Clark,Concorida
+Aisling Connolly,Dfinity
+Lucas Davi,University of Duisburg-Essen
+Sisi Duan,Tsinghua University
+Stefan Dziembowski,Warsaw
+Kaoutar Elkhiyaoui,IBM Research
+Ittay Eyal,Technion
+Yu Feng,UCSB
+Peter Gazi,IOHK
+Arthur Gervais,University College London
+Ari Juels,Cornell Tech
+Jonathan Katz,UMD
+Lucianna Kiffer,ETH Zurich
+Lefteris Kokoris-Kogias,IST Austria
+Kari Kostiainen,ETH Zurich
+Ranjit Kumaresan,Visa
+Duc-V Le,Visa Research
+Andrew Lewis-Pye,London School of Economics
+Yun Lu,University of Victoria
+Giorgia Azzurra Marson,NEC Labs
+Shin'ichiro Matsuo,Georgetown University
+David Mohaisen,University of Florida
+Pedro Moreno-Sanchez,IMDEA
+Kartik Nayak,Duke
+Joachim Neu,Stanford
+Kirill Nikitin,Cornell Tech
+Valeria Nikolaenko,Meta
+Charalampos Papamanthou,Yale
+Ling Ren,UIUC
+Stefanie Roos,TU Delft
+Stefan Schmid,University of Vienna
+Clara Schneideweind,MPI-SP
+Mark Simkin,Ethereum
+Yonatan Sompolinsky,Harvard
+Alberto Sonnino,Meta
+Alessandro Sorniotti,IBM Research Zurich
+Qiang Tang,Sydney
+Karl Wuest,CISPA
+Zhuolun (Daniel) Xiang,Aptos labs
+Fan Zhang,Duke
+Haibin Zhang,Beijing Institute of Technology
+Hong-Sheng Zhou,Virginia Commonwealth University
+Aviv Zohar,HUJI
+Adam Doupé,ASU
+Andrei Sabelfeld,Chalmers
+Aurore Fass,Stanford
+Cris Staicu,CISPA
+Deian Stefan,UCSD
+Ding Wang,Nankai University
+Engin Kirda,Northeastern University
+Florian Schaub,University of Michigan
+Iskander Sanchez-Rola,NortonLifeLock
+Jason Polakis,UIC
+Leyla Bilge,NortonLifeLock
+Maliheh Shirvanian,VISA
+Merve Sahin,SAP
+Nick Nikiforakis,Stony Brook
+Pierre Laperdrix,CNRS
+Roberto Perdisci,Georgia Tech
+Sooel Son,KAIST
+Stefano Calzavara,Venice
+Tamara Rezk,INRIA
+Veelasha Moonsamy,RUB
+Victor Le Pochat,KU Leuven
+Wei Meng,CUHK
+Xiaojing Liao,Indiana University Bloomington
+Yousra Aaafer,University of Waterloo
+Zane Ma,Georgia Tech
+Network Security,Unknown
+Alan Liu,Boston University
+Andreas Terzis,Google
+Ang Chen,Rice University
+Chao Shen,Xi’an Jiaotong University
+Christina Poepper,NYU Abu Dhabi
+Chunyi Peng,Purdue University
+Daniel Xiapu Luo,The Hong Kong Polytechnic University
+Haya Shulman,Fraunhofer SIT
+Jedidiah Crandall,Arizona State University
+Jelena Mirkovic,University of Southern California
+Katharina Kohls,Radboud University
+Kun Sun,George Mason University
+Laurent Vanbever,ETH
+Matthew Lentz,Duke University
+Mattijs Jonker,University of Twente
+Michalis Polychronakis,Stony Brook University
+Min Suk Kang,KAIST
+Nick Feamster,University of Chicago
+Ning Zhang,Washington University in St. Louis
+Qian Wang,Wuhan University
+Syed Rafiul Hussain,Penn State University
+Yao Liu,University of South Florida
+Yih-Chun Hu,UIUC
+Yongdae Kim,KAIST
+Zhan Qin,Zhejiang University
+Zhuotao Liu,Tsinghua University
+Zubair Shafiq,"University of California, Davis"
+Formal Methods and Programming Languages,Unknown
+Limin Jia,CMU
+Mario Alvim,Brazil
+Matteo Maffei,"TU Wien, Austria"
+Musard Balliu,KTH Royal Institute of Technology
+Owen Arden,UC Santa Cruz
+Robert Kunnemann,CISPA
+Sabine Oechsner,Security and Privacy group at Edinburg University
+Sasa Radomirovic,"Heriot-Watt University, UK"
+Toby Murray,University of Melbourne
+Vincent Laporte,"LORIA, Nancy, France"
+"Hardware, Side Channels, and CyberPhysical Systems",Unknown
+Amir Moradi,University of Cologne
+Annelie Heuser,CNRS IRISA
+Beguel Bilgin,Rambus
+Ben Nassi,Ben Gurion
+Benedikt Gierlichs,KU Leuven
+Christiano Giuffrida,VU Amsterdam
+Clementine Maurice,CNRS Cristal
+Daniel Gruss,IAIK
+Daniel Holcombe,UMass Amherst
+Daniel Moghimi,UCSD
+David Oswald,University of Birmingham
+Dmitry Evtyushkin,College of William and Mary
+Edward Suh,Cornell University
+Guoxing Chen,Shanghai Jiao Tong University
+Hamed Okhravi,MIT Lincoln Laboratory
+Ivan Martinovic,University of Oxford
+Jakub Szefer,Yale University
+Jo van Bulck,KU Leuven
+Maire O’Neill,Queens University Belfast
+Marina Minkin,University of Michigan
+Matthias Neugschwandtner,Oracle
+Michail Maniatakos,NY Abudhabi
+Mohammad Atiqul Islam,The University of Texas at Arlington
+Mu Zhang,Utah
+Nele Mentens,University of Leiden
+Nils Ole Tippenhauer,CISPA
+Oleksii Oleksenko,Microsoft Research
+Petr Svenda,Masaryk Univesity
+Ruby Lee,Princeton
+Ryan Kastner,UC San Diego
+Saman Zonouz,Rutgers University
+Shivam Basin,NTU Singapore
+Shreyas Sen,Purdue
+Sonia Belaid,Cryptoexperts
+Stefano Zanero,Politecnico di Milano
+Taegyu Kim,Pennsylvania State University
+Thomas Unterluggauer,Intel
+Urbi Chatterjee,IIT Kanpur
+Xiaoyu Ji,Zhejiang University
+Yuval Yarom,University of Adelaide
+Ziming Zhao,University at Buffalo
+Applied Cryptography,Unknown
+Adeline Roux-Langlois,"CNRS, IRISA"
+Aikaterini Mitrokotsa,University of St. Gallen
+Akira Takahashi,Aarhus University
+Alptekin Kupcu,Koç University
+Anamaria Costache,Norwegian University of Science and Technology (NTNU)
+Anca Nitulescu,Protocol Labs
+Andy Rupp,University of Luxembourg and KASTEL Security Research Labs
+Anja Lehmann,"Hasso-Plattner-Institute, University of Potsdam"
+Bart Preneel,"COSIC, Univ. of Leuven"
+Benjamin Fuller,University of Connecticut
+Bertram Poettering,IBM Zurich
+Chaya Ganesh,Indian Institute of Science
+Daniel Slamanig,AIT Austrian Institute of Technology
+Daniele Venturi,Sapienza
+Dario Fiore,IMDEA
+Divya Gupta,"Microsoft Research, India"
+Dov Gordon,George Mason University
+Esha Ghosh,"Microsoft Research, Redmond"
+Eyal Ronen,Tel Aviv University
+Foteini Baldiitsi,George Mason University
+Francois-Xavier Standaert,UCL Crypto Group
+Gabriel Kaptchuk,Boston University
+Gabrielle De Micheli,UCSD
+Gareth T. Davies,University of Wuppertal
+Greg Zaverucha,"Microsoft Research, Redmond"
+Jean Paul Degabriele,Technische Universität Darmstadt
+Jiaheng Zhang,Berkley
+Julia Hesse,IBM Zurich
+Julian Loss,CISPA
+Kenny Paterson,ETH
+Leo Perrin,INRIA
+Lisa Kohl,CWI
+Ludovic Perret,Sorbonne University
+Marc Fischlin,TU Darmstadt
+Mariana Raykova,Google
+Mehdi Tibouchi,NTT
+Moti Yung,Google LLC and Columbia University
+Ni Trieu,Arizona State University
+Peter Schwabe,Max Planck Institute
+Pierre-Alain Fouque,"Rennes Univ, France"
+Pratik Soni,CMU
+Rosario Gennaro,CUNY and Protocol Labs Research
+Ruben Niederhagen,SDU
+Ryo Nishimaki,NTT
+Sherman S. M. Chow,The Chinese University of Hong Kong
+Shweta Agrawal,"Indian Institute of Technology, Madras"
+Sri Aravinda Krishnan Thyagarajan,CMU
+Tarik Moataz,MongoDB
+Tibor Jager,University of Wuppertal
+Xiao Wang,Northwestern University
+Xiong (Leo) Fan,Algorand
+Yu Yu,Shanghai Jiao Tong University
+Yu Sasaki,NTT
+Battista Biggio,University of Cagliari
+Ben Zhao,University of Chicago
+Bimal Viswanath,Virginia Tech
+Binghui Wang,Illinois Institute of Technology
+Bo Li,UIUC
+Boris Köpf,Microsoft Research Cambridge
+Carl A. Gunter,UIUC
+Chaowei Xiao,Arizona State University
+David Mohaisen,University of Central Florida
+David Freeman,Facebook
+Fabio Pierazzi,King’s College London
+Florian Tramèr,Google and ETH
+Gagandeep Singh,UIUC
+Gang Wang,UIUC
+Giuseppe Ateniese,George Mason University
+Hao Chen,UC Davis
+Kai Chen,Chinese Academy of Science
+Konrad Rieck,Technische Universität Braunschweig
+Lorenzo Cavallaro,UCL
+Mario Fritz,CISPA
+Mathias Humbert,University of Lausanne
+Matt Fredrikson,CMU
+Matthew Jagielski,Google Research
+Michael Backes,CISPA
+Ninghui Li,Purdue University
+Olga Ohrimenko,The University of Melbourne
+Patrick McDaniel,Penn State University
+Pin-Yu Chen,IBM Research
+Reza Shokri,National University of Singapore
+Saeed Mahloujifar,Princeton University
+Shagufta Mehnaz,Dartmouth College
+Shiqing Ma,Rutgers University
+Shouling Ji,Zhejiang University
+Shruti Tople,Microsoft Research Cambridge
+Suman Jana,Columbia
+Thomas Pasquier,University of British Columbia
+Ting Wang,Penn State University
+Varun Chandrasekaran,University of Wisconsin-Madison
+Vincent Bindschaedler,University of Florida
+Xiangyu Zhang,Purdue University
+Xiaofeng Wang,Indiana University Bloomington
+Yang Zhang,CISPA
+Yinzhi Cao,Johns Hopkins University
+Yizheng Chen,"University of California, Berkeley"
+Yuan Hong,Illinois Institute of Technology
+Yuan Tian,University of Virginia
+Yupeng Zhang,Texas A&M University
+Anupam Das,North Carolina State University
+Blase Ur,University of Chicago
+Daphne Yao,Virginia Tech
+Elissa Redmiles,Max Planck Institute
+Frank Li,Georgia Tech
+Jason Xue,University of Adelaide
+Kelsey Fulton,University of Maryland
+Mainack Mondal,IIT Karagpur
+Nitesh Saxena,Texas A&M
+Sai Teja Peddinti,Google
+Tobias Fiebig,TU Delft
+Wenbo Guo,Penn State
+Alin Tomescu,VMware
+Alysson Bessani,Lisbon
+Andrew Miller,UIUC
+Aniket Kate,Purdue
+Arpita Patra,IISC
+Arthur Gervais,Imperial
+Aviv Zohar,HUJI
+Charalampos Papamanthou,Yale
+Fan Zhang,Duke
+Giorgia Marson,NEC
+Ittay Eyal,Technion
+Jonathan Katz,UMD
+Kartik Nayak,Duke
+Lefteris Kokoris-Kogias,IST Austria
+Ling Ren,UIUC
+Mahdi Zamani,Visa
+Marko Vukolic,Protocol Labs
+Mary Maller,Ethereum
+Philipp Jovanovic,UCL
+Qiang Tang,Sydney
+Tim Roughgarden,Colombia
+Valeria Nikolaenko,Meta
+Vassilis Zikas,Purdue
+Abhradeep Thakurta,Google
+Albert Cheu,Georgetown University
+Aloni Cohen,University of Chicago
+Amir Houmansadr,UMass Amherst
+Amritha Roy Chowdhury,Wisconsin Madison
+Anna Maria Mandalari,Imperial College London
+Bolin Ding,Alibaba Group
+Chenghong Wang,Duke University
+Daniel Kifer,Penn State University
+Gergely Acs,Budapest University of Technology and Economics
+Graham Cormode,University of Warwick
+Jennie Rogers,Northwestern University
+Jian Lou,"Guangzhou Institute of Technology, Xidian University"
+Joe Near,University of Vermont
+Johes Bater,Duke University
+Kostas Chatzikokolakis,University of Athens
+Kunal Talwar,Apple
+Marco Gaboardi,Boston University
+Michael Carl Tschantz,ICSI
+Michael Hay,Colgate/Tumult
+Oana Goga,CNRS
+Rachel Cummings,Columbia
+Ryan McKenna,UMass Amherst
+Ryan Rogers,LinkedIn
+Simon Oya,Waterloo
+Thorsten Strufe,KIT
+Tianhao Wang,University of Virginia
+Xi He,University of Waterloo
+Xiaokui Xiao,National University of Singapore
+Zeyu Ding,Penn State University
+Yongdae Kim,"KAIST, Republic of Korea"
+Jong Kim,"POSTECH, Republic of Korea"
+Giovanni Vigna,"University of California, Santa Barbara / VMware, USA"
+Elaine Shi,"Carnegie Mellon University, USA"
+Jin Kwak,"Ajou University, Republic of Korea"
+Somesh Jha,"University of Wisconsin-Madison, USA"
+Rebecca Wright,"Barnard College, USA"
+Carl Landwehr,"George Washington University, USA"
+Trent Jaeger,"Pennsylvania State University, USA"
+Stefan Savage,"University of California-San Diego, USA"
+David Basin,"ETH Zurich, Swiss"
+Abbas Razaghpanah,ICSI Research Scientist
+Adam Doupe,Arizona State University
+Adam Oest,PayPal
+Ahmad Bashir,Google
+Ahmad-Reza Sadeghi,Technical University of Darmstadt
+Albert Cheu,Georgetown University
+Alejandro Russo,Chalmers University of Technology
+Alessandra Scafuro,North Carolina State University
+Alexandra Dmitrienko,University of Wuerzburg
+Alexandros Kapravelos,North Carolina State University
+Alexandru Bardas,University of Kansas
+Alin Tomescu,VMware Research
+Alley Stoughton,Boston University
+Alvaro Cardenas,"University of California, Santa Cruz"
+Amir Rahmati,Stony Brook University
+Andrea Continella,University of Twente
+Andreas Zeller,CISPA Helmholtz Center for Information Security
+Andrei Sabelfeld,Chalmers University of Technology
+Andrew Baumann,Microsoft Research
+Ania Piotrowska,Nym Technologies
+Aniket Kate,Purdue University
+Anil Kurmus,IBM Research Europe - Zurich
+Anna Maria Mandalari,"Imperial College, UK"
+Antigoni Polychroniadou,J.P. Morgan AI Research
+Antonio Marcedone,Zoom Video Communications
+Anupam Das,North Carolina State University
+Arkady Yerukhimovich,George Washington University
+Arpita Patra,IISc Bangalore
+Arthur Gervais,Imperial College London
+Ashwin Machanavajjhala,Duke University
+Asia Slowinska,IBM Security
+Aurélien Francillon,EURECOM
+Aurore Fass,CISPA Helmholtz Center for Information Security
+Avishay Yanai,VMware Research
+Ben Livshits,Imperial College London
+Ben Stock,CISPA Helmholtz Center for Information Security
+Ben Y. Zhao,University of Chicago
+Benedikt Bünz,Stanford University
+Benjamin Fisch,Stanford University
+Bimal Viswanath,Virginia Tech
+Blase Ur,University of Chicago
+Bo Li,UIUC
+Bryan Ford,EPFL
+Carsten Baum,Aarhus University
+Catherine Meadows,US Naval Research Laboratory
+Chao Shen,Xi’an Jiaotong University
+Charalampos Papamanthou,University of Maryland
+Chen Yan,Zhejiang University
+Chris Hawblitzel,Microsoft Research
+Christina Ilvento,Harvard University
+Christopher Kruegel,"University of California, Santa Barbara"
+Dana Drachsler Cohen,Technion
+Danfeng Zhang,Penn State University
+Daniel Dubois,Northeastern University
+Daniel Genkin,University of Michigan
+Daniel Gruss,Graz University of Technology
+Daniel Holcomb,University of Massachusetts Amherst
+Daniel Kifer,Penn State
+Daniel Slamanig,AIT Austrian Institute of Technology
+Daniel Votipka,Tufts University
+David Barrera,Carleton Univeristy
+David Chisnall,Microsoft Research
+David Choffnes,Northeastern University
+David Heath,Georgia Institute of Technology
+Deepak Garg,Max Planck Institute for Software Systems
+Deian Stefan,UC San Diego
+Dominique Devriese,KU Leuven
+Doowon Kim,"University of Tennessee, Knoxville"
+Elaine Shi,Carnegie Mellon University
+Emmanuela Orsini,KU Leuven
+Engin Kirda,Northeastern University
+Eric Wustrow,University of Colorado Boulder
+Erik van der Kouwe,Vrije Universiteit Amsterdam
+Esha Ghosh,Microsoft Research
+Evgenios Kornaropoulos,George Mason University
+Ewa Syta,Trinity College
+Fan Zhang,Duke University
+Frank Li,Georgia Institute of Technology
+Frank Piessens,KU Leuven
+Frederico Araujo,IBM Research
+Gagandeep Singh,‘VMWare Research and UIUC
+Gang Wang,University of Illinois at Urbana-Champaign
+Gautam Kamath,University of Waterloo
+George Danezis,University College London
+Georgios Portokalidis,Stevens Institute of Technology
+Giancarlo Pellegrino,CISPA Helmholtz Center for Information Security
+Giovanni Cherubin,Alan Turing Institute
+Giovanni Vigna,UC Santa Barbara and VMware
+Giulio Malavolta,Max Planck Institute for Security and Privacy
+Güliz Seray Tuncay,Google
+Hamed Okhravi,MIT Lincoln Laboratory
+Haojin Zhu,Shanghai Jiao Tong University
+Herbert Bos,Vrije Universiteit Amsterdam
+Hong-Sheng Zhou,Virginia Commonwealth University
+Ian Goldberg,University of Waterloo
+Ioana Boureanu,"Univ. of Surrey, Surrey Centre for Cyber Security"
+Irene Giacomelli,Protocol Labs
+Ittai Abraham,VMware Research
+Jason Polakis,University of Illinois at Chicago
+Jelena Mirkovic,USC
+Jeremiah Onaolapo,University of Vermont
+Jeyavijayan Rajendran,Texas A&M University
+Johannes Kinder,Bundeswehr University Munich
+Jon McCune,Google
+Jonathan Ullman,Northeastern University
+Joppe W. Bos,NXP Semiconductors
+Julian Loss,University of Maryland
+Jun Xu,Stevens Institute of Technology
+Kangjie Lu,University of Minnesota
+Kartik Nayak,Duke University
+Katharina Kohls,Radboud University
+Kaveh Razavi,ETH Zurich
+Kelsey Fulton,University of Maryland
+Klaus v. Gleissenthall,Vrije Universiteit Amsterdam
+Konrad Rieck,TU Braunschweig
+Kun Sun,George Mason University
+Lejla Batina,Radboud University
+Limin Jia,CMU
+Long Lu,Ant Group and Northeastern University
+Lorenzo Cavallaro,University College London
+Luca Invernizzi,Google
+Lucas Davi,University of Duisburg-Essen
+Lujo Bauer,Carnegie Mellon University
+Marcel Böhme,"MPI-SP, Germany and Monash University, Australia"
+Marco Guarnieri,IMDEA Software Institute
+Marco Patrignani,Cispa helmholtz center for information security
+Mariana Raykova,Google Inc.
+Mark Simkin,Aarhus University
+Martina Lindorfer,TU Wien
+Mathy Vanhoef,KU Leuven
+Matteo Maffei,TU Wien
+Mattijs Jonker,University of Twente
+Mayank Varia,Boston University
+Merve Sahin,SAP Security Research
+Micah Sherr,Georgetown University
+Michael Backes,CISPA Helmholtz Center for Information Security
+Michael Carl Tschantz,International Computer Science Institute
+Michael Coblenz,University of Maryland
+Michel van Eeten,Delft University of Technology
+Milad Nasr,UMASS
+Minhui (Jason) Xue,The University of Adelaide
+Mobin Javed,LUMS Pakistan
+Musard Balliu,KTH Royal Institute of Technology
+Muthuramakrishnan Venkitasubramaniam,University of Rochester
+Narseo Vallina-Rodriguez,IMDEA Networks/ICSI
+Neetesh Saxena,Cardiff University
+Neil Gong,Duke University
+Nele Mentens,Leiden University and KU Leuven
+Ni Trieu,Arizona State University
+Nick Nikiforakis,Stony Brook University
+Nikita Borisov,UIUC
+Nishanth Chandran,"Microsoft Research, India"
+Nuno Santos,INESC-ID / IST Universidade de Lisboa
+Oana Goga,CNRS
+Olga Ohrimenko,The University of Melbourne
+Patricia Arias Cabarcos,Paderborn University
+Patrick McDaniel,Penn State University
+Patrick Tague,Carnegie Mellon University
+Paul Pearce,Georgia Tech
+Pedro Moreno-Sanchez,IMDEA Software Institute
+Peter Rindal,Visa Research
+Peter Scholl,Aarhus University
+Peter Snyder,Brave Browser
+Phillipa Gill,Google/U. Massachusetts - Amherst
+Pin-Yu Chen,IBM Research AI
+Pramod Viswanath,UIUC
+Prateek Saxena,National University of Singapore
+Qi Alfred Chen,UC Irvine
+Qi Li,Tsinghua University
+Rahul Chatterjee,University of Wisconsin-Madison
+Rakesh Verma,University of Houston
+Ralf Sasse,ETH Zurich
+Reza Shokri,National University of Singapore (NUS)
+Rishab Nithyanand,University of Iowa
+Roger Wattenhofer,ETH Zurich
+Ruben Martins,Carnegie Mellon University
+Ruoyu Fish Wang,Arizona State University
+Ryan Gerdes,Virginia Tech
+Sadia Afroz,"ICSI, Avast"
+Sajjad JJ Arshad,Google Inc.
+Sanchari Das,University of Denver
+Sarah Meiklejohn,University College London / Google
+Shiqing Ma,Rutgers University
+Shruti Tople,Microsoft Research
+Shuang Song,"Google Research, Brain"
+Siamak F. Shahandashti,University of York
+Simon Oya,University of Waterloo
+Simon Woo,Sungkyunkwan University
+Soo-Jin Moon,Google
+Sooel Son,KAIST
+Sophia Yakoubov,Aarhus University
+Srdjan Capkun,ETH Zurich
+Stefan Dziembowski,University of Warsaw
+Stefanie Roos,TU Delft
+Stefano Calzavara,Università Ca’ Foscari Venezia
+Stéphanie Delaune,"CNRS, Irisa"
+Steve Lu,"Stealth Software Technologies, Inc."
+Suman Jana,Columbia
+Tamara Rezk,INRIA Sophia-Antipolis
+Thomas Schneider,TU Darmstadt
+Tianhao Wang,Carnegie Mellon University and University of Virginia
+Timos Antonopoulos,Yale University
+Ting Wang,Penn State
+Tobias Fiebig,TU Delft
+Toby Murray,University of Melbourne
+Ulfar Erlingsson,Apple
+Umar Iqbal,The University of Iowa
+V.N. Venkatakrishnan,UIC
+Valeria Nikolaenko,Novi/Facebook
+Vasileios Kemerlis,Brown University
+Veelasha Moonsamy,Ruhr University Bochum
+Vincent Cheval,INRIA Paris
+Wei Meng,Chinese University of Hong Kong
+Wenbo Guo,The Pennsylvania State University
+Wenyuan Xu,Zhejiang University
+Xi He,University of Waterloo
+Xiangyu Zhang,Purdue University
+Xiao Wang,Northwestern University
+XiaoFeng Wang,Indiana University Bloomington
+Xiaoyu Ji,Zhejiang University
+Xinyu Xing,Pennsylvania State University
+Xuejia Lai,SJTU
+Yajin Zhou,Zhejiang University
+Yanchao Zhang,Arizona State University
+Yang Zhang,CISPA Helmholtz Center for Information Security
+Yanick Fratantonio,Cisco Talos
+Yier Jin,University of Florida
+Yinzhi Cao,Johns Hopkins University
+Yizheng Chen,"University of California, Berkeley"
+Yongdae Kim,KAIST
+Yousra Aafer,University of Waterloo
+Yuan Tian,University of Virginia
+Yupeng Zhang,Texas A&M University
+Z. Berkay Celik,Purdue University
+Z. Morley Mao,University of Michigan
+Ziming Zhao,University at Buffalo
+Jay Ligatti,"University of South Florida, USA"
+Xinming Ou,"University of South Florida, USA"
+Jonathan Katz,"University of Maryland, USA"
+Giovanni Vigna,"University of California-Santa Barbara, USA"
+Armin Ziaie Tabari,"University of South Florida, USA"
+Somesh Jha,University of Wisconsin-Madison
+Rebecca Wright,Barnard College
+Carl Landwehr,George Washington University
+Trent Jaeger,Pennsylvania State University
+Stefan Savage,University of California-San Diego
+David Basin,ETH Zurich
+Benny Pinkas,Bar Ilan University
+Vassilis Zikas,University of Edinburgh
+Deepak Garg,Max Planck Institute for Software Systems
+Herbert Bos,Vrije Universiteit Amsterdam
+Prateek Saxena,National University of Singapore
+Cristina Nita-Rotaru,Northeastern University
+Ashwin Machanavajjhala,Duke University
+Engin Kirda,Northeastern University
+Serge Egelman,University of California-Berkeley
+AbdelRahman Abdou,Carleton University
+Manos Antonakakis,Georgia Institute of Technology
+Aslan Askarov,Aarhus University
+Michael Backes,CISPA Helmholtz Center for Information Security
+Foteini Baldimtsi,George Mason University
+Davide Balzarotti,Eurecom
+Tiffany Bao,Arizona State University
+Gilles Barthe,MPI-SP and IMDEA
+Adam Bates,University of Illinois at Urbana-Champaign
+Iddo Bentov,Cornell Tech
+Karthikeyan Bhargavan,INRIA
+Antonio Bianchi,Purdue University
+Leyla Bilge,NortonLifeLock Research Group
+Bruno Blanchet,Inria
+Jonathan Bootle,IBM Research – Zurich
+Kevin Borgolte,Princeton University
+Kevin Butler,University of Florida
+Juan Caballero,IMDEA Software Institute
+Matthew Caesar,University of Illinois at Urbana-Champaign
+Yinzhi Cao,Johns Hopkins University
+Lorenzo Cavallaro,King’s College London
+Hao Chen,Microsoft Research
+Yaohui Chen,Facebook
+Nicolas Christin,Carnegie Mellon University
+Mihai Christodorescu,Visa Research
+Gabriela Ciocarlie,SRI International
+Andrea Continella,UC Santa Barbara/University of Twente
+Véronique Cortier,"CNRS, Loria, France"
+Cas Cremers,CISPA Helmholtz Center for Information Security
+Weidong Cui,Microsoft Research
+Rachel Cummings,Georgia Institute of Technology
+George Danezis,UCL / Facebook Calibra
+Lucas Davi,University of Duisburg-Essen
+Srini Devadas,MIT
+Adam Doupé,Arizona State University
+Tudor Dumitras,"University of Maryland, College Park"
+François Dupressoir,University of Bristol
+Manuel Egele,Boston University
+Karim Eldefrawy,SRI Internationa
+Nick Feamster,University of Chicago
+Earlence Fernandes,University of Wisconsin-Madison
+Tobias Fiebig,TU Delft
+Aurélien Francillon,Eurecom
+Michael Franz,"University of California, Irvine"
+Yanick Fratantonio,EURECOM
+Matt Fredrikson,CMU
+Alisa Frik,ICSI / UC Berkeley
+Marco Gaboardi,Boston University
+Daniel Genkin,University of Michigan
+Esha Ghosh,"Microsoft Research, Redmond, USA"
+Cristiano Giuffrida,VU Amsterdam
+Neil Gong,Duke University
+Dov Gordon,George Mason University
+Guofei Gu,Texas A&M University
+Trinabh Gupta,UC Santa Barbara
+Xi He,University of Waterloo
+Amir Herzberg,University of Connecticut
+Amir Houmansadr,UMass Amherst
+Suman Jana,Columbia University
+L Jean Camp,Indiana University
+Somesh Jha,"University of Wisconsin, Madison"
+Sanjay Jha,UNSW Sydney
+Aaron Johnson,U.S. Naval Research Laboratory
+Murat Kantarcioglu,University of Texas at Dallas
+Alexandros Kapravelos,North Carolina State University
+Aggelos Kiayias,University of Edinburgh and IOHK
+Daniel Kifer,Penn State University
+Yongdae Kim,KAIST
+Katharina Krombholz,CISPA Helmholtz Center for Info. Security
+Wenke Lee,Georgia Institute of Technology
+Dave Levin,University of Maryland
+Ninghui Li,Purdue University
+Zhou Li,UC Irvine
+David Lie,University of Toronto
+Zhiqiang Lin,Ohio State University
+Martina Lindorfer,TU Wien
+Peng Liu,Penn State University
+Kangjie Lu,University of Minnesota
+Loi Luu,Kyber Network
+Shiqing Ma,Rutgers University
+Matteo Maffei,TU Wien
+Piotr Mardziel,Carnegie Mellon University
+Stephen McCamant,University of Minnesota
+Patrick McDaniel,Penn State University
+Jiang Ming,University of Texas at Arlington
+Jelena Mirkovic,USC Information Sciences Institute
+Z. Morley Mao,University of Michigan
+Andrew Myers,Cornell University
+Kartik Nayak,Duke University
+Nick Nikiforakis,Stony Brook University
+Peng Ning,Google
+Ariel Nof,Technion
+Catuscia Palamidessi,INRIA
+Nicolas Papernot,University of Toronto and Vector Institute
+Paul Pearce,Georgia Tech
+Giancarlo Pellegrino,CISPA Helmholtz Center for Information Security
+Roberto Perdisci,University of GA and Georgia Institute of Technology
+Frank Piessens,KU Leuven
+Jason Polakis,University of Illinois at Chicago
+Michalis Polychronakis,Stony Brook University
+Georgios Portokalidis,Stevens Institute of Technology
+Sara Rampazzi,University of Michigan
+Aanjhan Ranganathan,Northeastern University
+Aseem Rastogi,Microsoft Research
+Mariana Raykova,Google
+Kaveh Razavi,Vrije Universiteit Amsterdam
+Michael Reiter,UNC-Chapel Hill
+Ling Ren,University of Illinois Urbana Champaign
+Konrad Rieck,TU Braunschweig
+Peter Rindal,Visa Research
+William Robertson,Northeastern University
+Andrei Sabelfeld,Chalmers
+Brendan Saltaformaggio,Georgia Institute of Technology
+David Sands,Chalmers
+Nolen Scaife,University of Colorado Boulder
+Jörg Schwenk,Ruhr University Bochum
+Reza Shokri,National University of Singapore
+Yan Shoshitaishvili,Arizona State University
+Radu Sion,Private Machines Inc and Stony Brook University
+Alex C. Snoeren,UC San Diego
+Ben Stock,CISPA Helmholtz Center for Information Security
+Alley Stoughton,Boston University
+Gianluca Stringhini,Boston University
+Min Suk Kang,National University of Singapore
+Yixin Sun,University of Virginia
+Mohit Tiwari,UT Austin and Symmetry Systems
+Jonathan Ullman,Northeastern University
+Blase Ur,University of Chicago
+Narseo Vallina-Rodriguez,IMDEA Networks/ICSI
+Erik van der Kouwe,Vrije Universiteit Amsterdam
+Venkat Venkatakrishnan,UIC
+Muthuramakrishnan Venkitasubramaniam,University of Rochester
+Ruoyu “Fish” Wang,Arizona State University
+Xiao Wang,Northwestern University
+XiaoFeng Wang,Indiana University
+Ting Wang,Pennsylvania State University
+Xusheng Xiao,Case Western Reserve University
+Xiaokui Xiao,National University of Singapore
+Xinyu Xing,Penn State University
+Luyi Xing,Indiana University Bloomington
+Daniel Zappala,Brigham Young University
+Fengwei Zhang,SUSTech
+Yinqian Zhang,Ohio State University
+Xiangyu Zhang,Purdue University
+Danfeng Zhang,Penn State University
+Yang Zhang,CISPA Helmholtz Center for Information Security
+Lorenzo Cavallaro,"King’s College London, UK"
+Johannes Kinder,"Bundeswehr University Munich, Germany"
+XiaoFeng Wang,"Indiana University, USA"
+Jonathan Katz,"George Mason University, USA"
+Gail-Joon Ahn,Arizona State University
+Sumayah Alrwais,King Saud University
+Owen Arden,UC Santa Cruz
+Adam Aviv,The George Washington University
+Erman Ayday,Case Western Reserve University
+Michael Backes,CISPA Helmholtz Center for Information Security
+Raef Bassily,Ohio State University
+Gilles Barthe,MPI Security and Privacy and IMDEA Software Institute
+Lujo Bauer,CMU
+Mihir Bellare,UCSD
+Karthikeyan Bhargavan,INRIA
+Leyla Bilge,Symantec
+Vincent Bindschaedler,University of Florida
+Jeremiah Blocki,Purdue University
+Rakesh Bobba,Oregon State University
+Sven Bugiel,CISPA Helmholtz Center for Information Security
+Christian Cachin,IBM Research Zürich
+L. Jean Camp,Indiana University
+Yinzhi Cao,Johns Hopkins University
+Alvaro Cardenas,UC Santa Cruz
+David Cash,University of Chicago
+Haibo Chen,Shanghai Jiao Tong University
+Hao Chen,"University of California, Davis"
+Hao Chen,Microsoft Research
+Kai Chen,"Institute of Information Engineering, Chinese Academy of Sciences, China"
+Shuo Chen,Microsoft Research
+Yan Chen,Northwestern University
+Yingying Chen,Rutgers University
+Omar Chowdhury,The University of Iowa
+Nicolas Christin,Carnegie Mellon University
+Weidong Cui,Microsoft Research
+Lucas Davi,University of Duisburg-Essen
+Lorenzo De Carli,Worcester Polytechnic Institute
+Emiliano De Cristofaro,UCL
+Soteris Demetriou,Imperial College London
+Wenrui Diao,Shandong University
+Adam Doupe,Arizona State University
+Haixin Duan,"360 ESG Institute of Security Research; Institute for Network Science and Cyberspace, Tsinghua University"
+Tudor Dumitras,Univ. Maryland
+Manuel Egele,Boston University
+Ittay Eyal,"Technion, Israel"
+Sascha Fahl,University of Hannover
+Kassem Fawaz,University of Wisconsin-Madison
+Dario Fiore,IMDEA Software Institute
+Marc Fischlin,TU Darmstadt
+Sara Foresti,Università degli Studi di Milano
+Michael Franz,"University of California, Irvine, USA"
+Xinyang Ge,Penn State
+Daniel Genkin,University of Michigan
+Rosario Gennaro,"City College, CUNY"
+Irene Giacomelli,Protocol Labs
+Neil Gong,Duke University
+Guofei Gu,Texas A&M
+Yong Guan,Iowa State University
+Carl Gunter,University of Illinois
+Weili Han,Fudan University
+Carmit Hazay,Bar-Ilan University
+Ryan Henry,University of Calgary
+Michael Hicks,University of Maryland
+Thorsten Holz,Ruhr-University Bochum
+Nick Hopper,University of Minnesota
+Amir Houmansadr,UMass Amherst
+Yan Huang,Indiana University
+Trent Jaeger,Penn State University
+Tibor Jager,Paderborn University
+Rob Jansen,U.S. Naval Research Laboratory
+Somesh Jha,University of Wisconsin
+Shouling Ji,Zhejiang University
+Yier Jin,University of Florida
+Brent ByungHoon Kang,KAIST
+Murat Kantarcioglu,University of Texas at Dallas
+Alexandros Kapravelos,North Carolina State University
+Aniket Kate,Purdue University
+Jonathan Katz,University of Maryland
+Aggelos Kiayias,University of Edinburgh
+Taesoo Kim,Georgia Institute of Technology
+Yongdae Kim,KAIST
+Engin Kirda,Northeastern University
+Ralf Kuesters,"University of Stuttgart, Germany"
+Bum Jun Kwon,National Security Research Institute
+Ruby Lee,Princeton
+Wenke Lee,Georgia Institute of Technology
+Kirill Levchenko,University of Illinois Urbana-Champaign
+Bo Li,UIUC
+Ninghui Li,Purdue University
+Zhou Li,UC Irvine
+Zhenkai Liang,National University of Singapore
+Xiaojing Liao,Indiana University
+David Lie,Univ. Toronto
+Zhiqiang Lin,Ohio State University
+Peng Liu,Pennsylvania State University
+Yang Liu,Nanyang Technological University
+Wenjing Lou,Virginia Polytechnic Institute and State University
+Kangjie Lu,University of Minnesota
+Vadim Lyubashevsky,IBM Research - Zurich
+Ashwin Machanavajjhala,Duke University
+Matteo Maffei,TU Wien
+Mohammad Mannan,Concordia University
+Damon McCoy,NYU
+Patrick McDaniel,Penn State University
+Ian Miers,Cornell Tech; University of Maryland
+Andrew Miller,University of Illinois at Urbana-Champaign
+Jiang Ming,University of Texas at Arlington
+Ilya Mironov,Google
+Esfandiar Mohammadi,ETH Zurich
+Payman Mohassel,Yahoo Inc
+Muhammad Naveed,USC
+Stefan Nuernberger,CISPA Helmholtz Center i.G.
+Olya Ohrimenko,Microsoft Research
+Claudio Orlandi,Aarhus University
+Nicolas Papernot,Penn State
+Kenny Paterson,RHUL/ETH Zurich
+Mathias Payer,EPFL
+Paul Pearce,Georgia Tech; Facebook; International Computer Science Institute
+Adrian Perrig,ETH
+Frank Piessens,KU Leuven
+Feng Qian,University of Minnesota - Twin Cities
+Zhiyun Qian,UC Riverside
+Mike Reiter,UNC
+William Robertson,Northeastern University
+Mike Rosulek,Oregon State University
+Andrew Ruef,Independent
+Ulrich Rührmair,LMU Munich
+Andrei Sabelfeld,Chalmers University of Technology
+Ahmad-Reza Sadeghi,TU Darmstadt
+Nitesh Saxena,The University of Alabama at Birmingham
+Joshua Schiffman,"HP Labs, HP Inc."
+Benedikt Schmidt,Google
+Dominique Schröder,Friedrich-Alexander Universität ErlangenNürnberg
+Abhi Shelat,Northeastern University
+Seungwon Shin,KAIST
+Reza Shokri,National University of Singapore (NUS)
+Radu Sion,Stony Brook University
+Adam Smith,Boston University
+Chengyu Song,UC Riverside
+Ben Stock,CISPA Helmholtz Center for Information Security
+Gianluca Stringhini,Boston University
+Kun Sun,George Mason University
+Paul Syverson,U.S. Naval Research Laboratory
+Kunal Talwar,Google Inc
+Yuan Tian,University of Virginia
+Nils Ole Tippenhauer,CISPA Helmholtz-Zentrum i.G.
+Mohit Tiwari,University of Texas - Austin
+Blase Ur,University of Chicago
+Venkat Venkatakrishnan,UIC
+Giovanni Vigna,UC Santa Barbara
+Hayawardh Vijayakumar,Samsung Research America
+Haining Wang,University of Delaware
+Ruoyu 'Fish' Wang,Arizona State University
+Wenhao Wang,"Institute of Information Engineering, CAS"
+XiaoFeng Wang,Indiana University Bloomington
+Xiao Wang,"MIT, Boston University"
+Rebecca Wright,Rutgers University
+Dinghao Wu,Pennsylvania State University
+Tao Xie,UIUC
+Luyi Xing,Indiana University Bloomington
+Xinyu Xing,Pennsylvania State University
+Li Xiong,Emory U
+Wenyuan Xu,Zhejiang University
+Min Yang,Fudan University
+Danfeng Yao,"Virginia Tech, Dept of Computer Science"
+Yuval Yarom,University of Adelaide and Data61
+Arkady Yerukhimovich,George Washington University
+Heng Yin,UC Riverside
+Ting Yu,Qatar Computing Research Institute
+Yu Yu,Shanghai Jiao Tong University
+Chao Zhang,Institute for Network Sciences and Cyberspace of Tsinghua University
+Danfeng Zhang,Penn State University
+Fengwei Zhang,Wayne State University
+Kehuan Zhang,The Chinese University of Hong Kong
+Xiangyu Zhang,Purdue University
+Yang Zhang,CISPA Helmholtz Center for Information Security
+Yinqian Zhang,Ohio State
+Yupeng Zhang,UC Berkeley
+Jianying Zhou,Singapore University of Technology and Design
+Yajin Zhou,Zhejiang University
+Zhe Zhou,Fudan University
+Daniel Takabi,Georgia State University
+Thomas Ristenpart,Cornell Tech
+Patrick Traynor,University of Florida
+Trent Jaeger,Pennsylvania State University
+Alina Oprea,Northeastern University
+Thorsten Holz,Ruhr-Universität Bochum
+Adam Aviv,The George Washington University
+Davide Balzarotti,Eurecom
+Gilles Barthe,MPI-SP and IMDEA Software Institute
+Lujo Bauer,Carnegie Mellon University
+Karthikeyan Bhargavan,Inria
+Antonio Bianchi,Purdue University
+Nataliia Bielova,Inria
+Battista Biggio,University of Cagliari
+Eric Bodden,Paderborn University and Fraunhofer IEM
+Joseph Bonneau,New York University
+Kevin Borgolte,Princeton University
+Ioana Boureanu,University of Surrey
+Billy Brumley,Tampere University
+Chris Brzuska,Aalto University
+Kevin Butler,University of Florida
+Brent Byunghoon Kang,KAIST
+Srdjan Capkun,ETH Zurich
+Nicholas Carlini,Google
+David Cash,University of Chicago
+Lorenzo Cavallaro,King's College London
+Melissa Chase,Microsoft Research Redmond
+Rahul Chatterjee,University of Wisconsin-Madison
+Nicolas Christin,Carnegie Mellon University
+Henry Corrigan-Gibbs,EPFL and MIT CSAIL
+Manuel Costa,Microsoft Research
+Cas Cremers,CISPA Helmholtz Center for Information Security
+Weidong Cui,Microsoft Research
+Rachel Cummings,Georgia Institute of Technology
+Anupam Das,North Carolina State University
+Nathan Dautenhahn,Rice University
+Emiliano De Cristofaro,University College London
+Brendan Dolan-Gavitt,New York University
+Adam Doupé,Arizona State University
+Markus Dürmuth,Ruhr-Universität Bochum
+Giulia Fanti,Carnegie Mellon University
+Sebastian Faust,TU Darmstadt
+Kassem Fawaz,University of Wisconsin-Madison
+Tobias Fiebig,TU Delft
+Anders Fogh,Intel Corporation
+Cedric Fournet,Microsoft Research
+Michael Franz,University of California Irvine
+Matt Fredrikson,Carnegie Mellon University
+Adria Gascon,Google Research
+Arthur Gervais,Imperial College London
+Neil Gong,Duke University
+Guofei Gu,Texas A&M University
+Andreas Haeberlen,University of Pennsylvania
+Matthew Hicks,Virginia Tech
+Thorsten Holz,Ruhr-Universität Bochum
+Amir Houmansadr,UMass Amherst
+Catalin Hritcu,Max Planck Institute for Security and Privacy (MPI-SP)
+Luca Invernizzi,Google
+Tibor Jager,Bergische Universität Wuppertal
+Suman Jana,Columbia University
+Limin Jia,Carnegie Mellon University
+Aniket Kate,Purdue University
+Stefan Katzenbeisser,University of Passau
+Yongdae Kim,Korea Advanced Institute of Science and Technology (KAIST)
+David Kohlbrenner,UC Berkeley
+Katharina Krombholz,CISPA Helmholtz Center for Information Security
+Ralf Kuesters,University of Stuttgart
+Boris Köpf,Microsoft Research
+Tancrède Lepoint,Google
+Qi Li,Tsinghua University
+Frank Li,Georgia Institute of Technology
+Xiaojing Liao,Indiana University Bloomington
+David Lie,University of Toronto
+Zhiqiang Lin,The Ohio State University
+Martina Lindorfer,TU Wien
+Matteo Maffei,TU Wien
+Sergio Maffeis,Imperial College London
+Clémentine Maurice,"CNRS, IRISA"
+Michelle Mazurek,University of Maryland
+Damon McCoy,New York University
+Andrew Miller,University of Illinois at Urbana-Champaign
+Nick Nikiforakis,Stony Brook University
+Guevara Noubir,Northeastern University
+Olga Ohrimenko,The University of Melbourne
+Alina Oprea,Northeastern University
+Yossi Oren,Ben-Gurion University
+Nicolas Papernot,University of Toronto and Vector Institute
+Mathias Payer,EPFL
+Paul Pearce,Georgia Tech and ICSI
+Marcus Peinado,Microsoft Research
+Giancarlo Pellegrino,CISPA Helmholtz Center for Information Security
+Roberto Perdisci,University of Georgia
+Frank Piessens,KU Leuven
+Benny Pinkas,VMware Research / Bar Ilan University
+Jason Polakis,University of Illinois at Chicago
+Michalis Polychronakis,Stony Brook University
+Christina Pöpper,New York University Abu Dhabi
+Zhiyun Qian,University of California Riverside
+Ananth Raghunathan,Google
+Aanjhan Ranganathan,Northeastern University
+Kasper Rasmussen,University of Oxford
+Mariana Raykova,Google
+Konrad Rieck,TU Braunschweig
+William Robertson,Northeastern University
+Christian Rossow,CISPA Helmholtz Center for Information Security
+Andrei Sabelfeld,Chalmers University of Technology
+Brendan Saltaformaggio,Georgia Institute of Technology
+Dominique Schröder,Friedrich-Alexander-Universität Erlangen-Nürnberg
+Jörg Schwenk,Ruhr-Universität Bochum
+Vyas Sekar,Carnegie Mellon University
+Simha Sethumadhavan,Columbia University/Chip Scan
+Srinath Setty,Microsoft Research
+Hovav Shacham,The University of Texas at Austin
+Emily Shen,MIT Lincoln Laboratory
+Elaine Shi,Cornell
+Reza Shokri,National University of Singapore (NUS)
+Yan Shoshitaishvili,Arizona State University
+Emily Stark,Google
+Deian Stefan,UC San Diego
+Ben Stock,CISPA Helmholtz Center for Information Security
+Thorsten Strufe,Karlsruhe Institute of Technology (KIT) and CeTI/TU-Dresden
+Gang Tan,Penn State University
+Vanessa Teague,Thinking Cybersecurity and The Australian National University
+Kurt Thomas,Google
+Yuan Tian,University of Virginia
+Carmela Troncoso,EPFL
+Jonathan Ullman,Northeastern University
+Selcuk Uluagac,Florida International University
+Blase Ur,University of Chicago
+Xiao Wang,Northwestern University
+Yuval Yarom,University of Adelaide and Data61
+Yanfang (Fanny) Ye,Case Western Reserve University
+Ting-Fang Yen,DataVisor
+Heng Yin,UC Riverside
+Fengwei Zhang,Southern University of Science and Technology (SUSTech)
+Ben Zhao,University of Chicago
+Yajin Zhou,Zhejiang University
+Thyla van der Merwe,Mozilla
+Christopher Kruegel,UC Santa Barbara
+Hovav Shacham,"University of California, San Diego"
+Abhi Shelat,Northeastern University
+Adam Bates,University of Illinois at Urbana-Champaign
+Adam Doupé,Arizona State University
+Adrian Perrig,ETH Zurich
+Adrienne Porter Felt,Google
+Aggelos Kiayias,University of Edinburgh & IOHK
+Alessandro Chiesa,UC Berkeley
+Alexandros Kapravelos,North Carolina State University
+Alina Oprea,Northeastern University
+Ananth Raghunathan,Google
+Anders Fogh,Intel Corporation
+Andrei Sabelfeld,Chalmers University of Technology
+Andrew Miller,University of Illinois at Urbana-Champaign
+Aniket Kate,Purdue University
+Anja Lehmann,IBM Research - Zurich
+Ari Juels,Cornell Tech
+Asia Slowinska,IBM Security
+Aurelien Francillon,EURECOM
+Aylin Caliskan,George Washington University
+Bo Li,UC Berkeley
+Brendan Dolan-Gavitt,NYU
+Cas Cremers,University of Oxford
+Chris Kanich,University of Illinois at Chicago
+Claudia Diaz,KU Leuven
+Cristiano Giuffrida,Vrije Universiteit Amsterdam
+Daniel Genkin,University of Pennsylvania and University of Maryland
+Daniela Oliveira,University of Florida
+Daphne Yao,Virginia Tech
+Dave Levin,University of Maryland
+David Evans,University of Virginia
+David Kotz,Dartmouth College
+Deian Stefan,UC San Diego
+Engin Kirda,Northeastern University
+Fabian Monrose,University of North Carolina at Chapel Hill
+Farinaz Koushanfar,University of California San Diego
+Foteini Baldimtsi,George Mason University
+Frank Piessens,KU Leuven
+Franziska Roesner,University of Washington
+Gianluca Stringhini,University College London
+Guofei Gu,Texas A&M University
+Herbert Bos,Vrije Universiteit Amsterdam
+Joseph Bonneau,New York University
+Juan Caballero,IMDEA Software Institute
+Kasper Rasmussen,University of Oxford
+Kenny Paterson,Royal Holloway University of London
+Konrad Rieck,TU Braunschweig
+Konstantin (Kosta) Beznosov,University of British Columbia
+Kurt Thomas,Google
+Leyla Bilge,Symantec Research Labs
+Long Lu,Northeastern University
+Lorrie Cranor,Carnegie Mellon University
+Lujo Bauer,Carnegie Mellon University
+Manos Antonakakis,Georgia Institute of Technology
+Manuel Egele,Boston University
+Mariana Raykova,Yale University
+Marina Blanton,University at Buffalo
+Mathias Payer,EPFL and Purdue University
+Matt Fredrikson,Carnegie Mellon University
+Matthew Hicks,Virginia Tech
+Michael Bailey,University of Illinois at Urbana-Champaign
+Michael Franz,University of California at Irvine
+Michalis Polychronakis,Stony Brook University
+Michelle Mazurek,University of Maryland
+Mihai Christodorescu,Visa Research
+Mike Reiter,University of North Carolina at Chapel Hill
+Mike Rosulek,Oregon State University
+Nick Feamster,Princeton University
+Nick Nikiforakis,Stony Brook University
+Nickolai Zeldovich,MIT CSAIL
+Nicolas Christin,Carnegie Mellon University
+Niels Provos,Google Inc
+Nikhil Swamy,Microsoft Research
+Nitesh Saxena,University of Alabama at Birmingham
+Omar Chowdhury,University of Iowa
+Payman Mohassel,Visa Research
+Piotr Mardziel,Carnegie Mellon University
+Prateek Mittal,Princeton University
+Ralf Kuesters,University of Stuttgart
+Reza Shokri,National University of Singapore (NUS)
+Rob Reeder,Google
+Robert Watson,University of Cambridge
+Roberto Perdisci,University of Georgia and Georgia Institute of Technology
+Rosario Gennaro,The City College of New York
+Roya Ensafi,University of Michigan
+Ruby Lee,Princeton University
+Sarah Meiklejohn,University College London
+Sascha Fahl,Leibniz University Hannover
+Sergio Maffeis,Imperial College London
+Somesh Jha,University of Wisconsin at Madison
+Srdjan Capkun,ETH Zurich
+Stefan Katzenbeisser,TU Darmstadt
+Taesoo Kim,Georgia Tech
+Thorsten Holz Ruhr,Universität Bochum
+Tom Ristenpart,Cornell Tech
+Tom Shrimpton,University of Florida
+Trent Jaeger,Penn State University
+Tudor Dumitras,University of Maryland at College Park
+Veronique Cortier,CNRS and Loria
+Virgil Gligor,Carnegie Mellon University
+Vladimir Kolesnikov,Georgia Tech
+Vyas Sekar,Carnegie Mellon University
+Wenke Lee,Georgia Institute of Technology
+Wenyuan Xu,Zhejiang University
+William Robertson,Northeastern University
+XiaoFeng Wang,Indiana University
+Zhiyun Qian,University of California at Riverside
+Wenyuan Xu,Zhejiang University
+Mathias Payer,EPFL
+Ahmad-Reza Sadeghi,Technical University of Darmstadt
+Alessandro Sorniotti,IBM Research
+Alexandra Dmitrienko,University of Wuerzburg
+Alvaro Cardenas,UC Santa Cruz
+Anh Dinh,Singapore University of Technology and Design
+Anil Kurmus,IBM Research Europe – Zurich
+Antonio Bianchi,Purdue University
+Ardalan Amiri Sani,UC Irvine
+Arthur Gervais,Imperial College London
+Benjamin Andow,Google
+Benjamin Beurdouche,Mozilla
+Brendan Saltaformaggio,Georgia Institute of Technology
+Brent ByungHoon Kang,KAIST
+Chao Shen,Xi’an Jiaotong University
+Christina Garman,Purdue University
+Christina Pöpper,New York University Abu Dhabi
+Christopher Liebchen,Google
+Daniel Holcomb,UMass Amherst
+Daniele Antonioli,EURECOM
+Daniele Cono D’Elia,Sapienza University of Rome
+Ding Wang,Nankai University
+Doowon Kim,"University of Tennessee, Knoxville"
+Emiliano De Cristofaro,UCL
+Fengwei Zhang,Southern University of Science and Technology (SUSTech)
+Flavio Toffalini,EPFL
+Frederik Braun,Mozilla
+Gang Qu,University of Maryland
+Gang Wang,University of Illinois at Urbana-Champaign
+Gianluca Stringhini,Boston University
+Guofei Gu,Texas A&M
+Haibin Zhang,Beijing Institute of Technology
+Haipeng Cai,Washington State University
+Hamed Okhravi,MIT Lincoln Laboratory
+Haojin Zhu,Shanghai Jiao Tong University
+Hong Hu,Penn State University
+Houman Homayoun,UC Davis
+Ivan De Oliveira Nunes,Rochester Institute of Technology
+Jason (Minhui) Xue,CSIRO’s Data61
+Jeyavijayan Rajendran,Texas A&M University
+Joel Frank,Ruhr-Universität Bochum
+Johanna Sepulveda,Airbus Defence and Space
+Jon McCune,Google
+Jun Xu,The University of Utah
+Kangjie Lu,University of Minnesota
+Kapil Singh,IBM T.J. Watson Research Center
+Karl Wüst,CISPA Helmholtz Center for Information Security
+Katharina Krombholz,CISPA Helmholtz Center for Information Security
+Kelsey Fulton,University of Maryland
+Kun Sun,George Mason University
+Lannan Luo,University of South Carolina
+Lejla Batina,Radboud University
+Limin Jia,CMU
+Lucas Davi,University of Duisburg-Essen
+Manuel Egele,Boston University
+Marcel Busch,EPFL
+Marcus Peinado,Microsoft Research
+Markus Miettinen,Technical University of Darmstadt
+Mauro Conti,University of Padua
+Michael Schwarz,CISPA Helmholtz Center for Information Security
+Mihalis Maniatakos,New York University Abu Dhabi
+Mu Zhang,University of Utah
+Nathan Malkin,University of Maryland
+Neil Gong,Duke University
+Nele Mentens,Leiden University and KU Leuven
+Norrathep Rattanavipanon,"Prince of Songkla University, Phuket Campus"
+Pedro Moreno-Sanchez,IMDEA Software Institute
+Qi Alfred Chen,UC Irvine
+Qi Li,Tsinghua University
+Qiang Tang,The University of Sydney
+Ren Zhang,Nervos
+Saman Zonouz,Rutgers University
+Samuel Jero,MIT Lincoln Laboratory
+Santiago Torres-Arias,Purdue University
+Sarah Zennou,Airbus
+Sazzadur Rahaman,University of Arizona
+Selcuk Uluagac,Florida International University
+Srdjan Capkun,ETH Zurich
+Srdjan Matic,IMDEA Software Institute
+Stefan Brunthaler,"μCSRL, CODE, UniBwM"
+Stefanie Roos,TU Delft
+Stjepan Picek,"TU Delft, The Netherlands"
+Syed Rafiul Hussain,Pennsylvania State University
+Taegyu Kim,Pennsylvania State University
+Tianhao Wang,University of Virginia
+Tiffany Bao,Arizona State University
+Ting Chen,University of Electronic Science and Technology of China
+Trent Jaeger,Penn State University
+William Robertson,Northeastern University
+Xiaoyu Ji,Zhejiang University
+Xiapu Luo,The Hong Kong Polytechnic University
+Xinyang Ge,Netflix
+Yan Shoshitaishvili,Arizona State University
+Yang Zhang,CISPA Helmholtz Center for Information Security
+Yanick Fratantonio,Google
+Yanjiao Chen,Zhejiang University
+Yongdae Kim,KAIST
+Yuan Tian,University of Virginia
+Yuseok Jeon,Ulsan National Institute of Science and Technology (UNIST)
+Z. Berkay Celik,Purdue University
+Zahra Ghodsi,UC San Diego
+Zhenkai Liang,National University of Singapore
+Zhou Li,"University of California, Irvine"
+Farinaz Koushanfar,"University of California, San Diego"
+Wenyaun Xu,Zhejiang University
+Adam Doupe,Arizona State University
+Adwait Nadkarni,William & Mary
+Ahmad-Reza Sadeghi,Technical University of Darmstadt
+Alexandra Dmitrienko,University of Wuerzburg
+Alvaro Cardenas,UC Santa Cruz
+Antonio Bianchi,Purdue University
+Arthur Gervais,Imperial College London
+Avesta Sasan,University of California Davis
+Aysajan Abidin,"imec-COSIC, KU Leuven"
+Ben Stock,CISPA Helmholtz Center for Information Security
+Benjamin Andow,Google
+Berkay Celik,Purdue University
+Bita Rouhani,Microsoft
+Brendan Saltaformaggio,Georgia Institute of Technology
+Brent ByungHoon Kang,KAIST
+Chao Shen,Xi’an Jiaotong University
+Christopher Liebchen,Google
+Cornelius Aschermann,Ruhr-Universität Bochum
+Dan Wallach,Rice
+Daniel Holcomb,University of Massachusetts Amherst
+Dongyan Xu,Purdue University
+Emiliano De Cristofaro,University College London
+Gang Qu,University of Maryland
+Gang Wang,University of Illinois at Urbana-Champaign
+Guofei Gu,Texas A&M
+Haixin Duan,Tsinghua University
+Hamed Okhravi,MIT Lincoln Laboratory
+Haojin Zhu,Shanghai Jiao Tong University
+Hong Hu,Pennsylvania State University
+Houman Homayoun,UC Davis
+Ivan De Oliveira Nunes,Rochester Institute of Technology
+Jeyavijayan Rajendran,Texas A&M University
+Joel Frank,Ruhr-Universität Bochum
+Johanna Sepulveda,Airbus Defence and Space
+Kangjie Lu,University of Minnesota
+Kapil Singh,IBM T.J. Watson Research Center
+Katharina Kohls,Radboud University
+Kun Sun,George Mason University
+Lannan Luo,University of South Carolina
+Lejla Batina,Radboud University
+Limin Jia,CMU
+Lucas Davi,University of Duisburg-Essen
+Maliheh Shirvanian,Visa Research
+Manuel Egele,Boston University
+Marcus Peinado,Microsoft Research
+Markus Miettinen,Technical University of Darmstadt
+Mathias Payer,EPFL
+Mauro Conti,University of Padua
+Michael Franz,"University of California, Irvine"
+"Minhui, Jason Xue",The University of Adelaide
+Neil Gong,Duke University
+Nele Mentens,Leiden University and KU Leuven
+Ning Zhang,Washington University in St. Louis
+Norrathep Rattanavipanon,"Prince of Songkla University, Phuket Campus"
+Pedro Moreno-Sanchez,IMDEA Software Institute
+Qi Alfred Chen,UC Irvine
+Qi Li,Tsinghua University
+Qian Wang,Wuhan University
+Qiang Zeng,University of South Carolina
+Ren Zhang,Nervos
+Ryan Gerdes,Virginia Tech
+Saman Zonouz,Rutgers University
+Samuel Jero,MIT Lincoln Laboratory
+Samuel Marchal,Aalto University and F-Secure Corporation
+Sazzadur Rahaman,University of Arizona
+Selcuk Uluagac,Florida International University
+Shouling Ji,Zhejiang University
+Sooel Son,KAIST
+Srdjan Capkun,ETH Zurich
+Srinath Setty,Microsoft Research
+Stefanie Roos,TU Delft
+Stjepan Picek,TU Delft
+Syed Rafiul Hussain,Pennsylvania State University
+Tiffany Bao,Arizona State University
+Ting Chen,University of Electronic Science and Technology of China
+Trent Jaeger,Penn State University
+Xiaojing Liao,Indiana University Bloomington
+Xiaoyu Ji,Zhejiang University
+Xiapu Luo,The Hong Kong Polytechnic University
+Xinyang Ge,Microsoft Research
+Yanjiao Chen,Zhejiang University
+Yier Jin,University of Florida
+Yiorgos Makris,UT Dallas
+Yongdae Kim,KAIST
+Yuan Tian,University of Virginia
+Zahra Ghodsi,UC San Diego
+Zhenkai Liang,National University of Singapore
+Zhou Li,"University of California, Irvine"
+Ahmad-Reza Sadeghi,TU Darmstadt
+Farinaz Koushanfar,University of California San Diego
+Benjamin Andow,Google
+Cornelius Aschermann,Oracle
+Tiffany Bao,Arizona State University
+Adam Bates,University of Illinois
+Lejla Batina,Radboud University
+Lujo Bauer,Carnegie Mellon University
+Antonio Bianchi,Purdue University
+Jeremiah Blocki,Purdue University
+Kevin Butler,University of Florida
+Rosario Cammarota,Intel AI Research
+Srdjan Capkun,ETH Zurich
+Yingying Chen,Rutgers University
+Anupam Das,North Carolina State University
+Lucas Davi,University of Duisburg-Essen
+Alexandra Dmitrienko,University of Wuerzburg
+Brendan Dolan-Gavitt,NYU
+Adam Doupe,Arizona State University
+Manuel Egele,Boston University
+William Enck,North Carolina State University
+Sebastian Faust,TU Darmstadt
+Marc Fischlin,TU Darmstadt
+Aurélien Francillon,EURECOM
+Carrie Gates,Bank of America
+Xinyang Ge,Microsoft Research
+Neil Gong,Duke University
+Guofei Gu,Texas A&M
+Kevin Hamlen,University of Texas at Dallas
+Amir Houmansadr,UMass Amherst
+Hsu-Chun Hsiao,National Taiwan University
+Trent Jaeger,Penn State University
+Suman Jana,Columbia University
+Samuel Jero,MIT Lincoln Laboratory
+Limin Jia,CMU
+Yier Jin,University of Florida
+Brent ByungHoon Kang,KAIST
+Yongdae Kim,KAIST
+Sam King,UC Davis
+Engin Kirda,Northeastern University
+Katharina Kohls,Radboud University
+Per Larsen,"UC Irvine and Immunant, Inc."
+Qi Li,Tsinghua University
+Zhou Li,UC Irvine
+Zhenkai Liang,National University of Singapore
+Xiaojing Liao,Indiana University Bloomington
+Christopher Liebchen,Google
+Kangjie Lu,University of Minnesota
+Long Lu,Northeastern University
+Lannan Luo,University of South Carolina
+Samuel Marchal,Aalto University
+Jon McCune,Google
+Nele Mentens,KU Leuven
+Markus Miettinen,TU Darmstadt
+Adwait Nadkarni,William & Mary University
+Muhammad Naveed,USC
+Hamed Okhravi,MIT Lincoln Laboratory
+Mathias Payer,EPFL
+Marcus Peinado,Microsoft Research
+Christina Poepper,New York University Abu Dhabi
+Zhiyun Qian,UC Riverside
+Syed Rafiul Hussain,Pennsylvania State University
+Jeyavijayan Rajendran,Texas A&M University
+Brad Reaves,North Carolina State University
+Konrad Rieck,TU Braunschweig
+Stefanie Roos,TU Delft
+Brendan Saltaformaggio,Georgia Institute of Technology
+Sooel Son,KAIST
+Fareena Saqib,UNC Charlotte
+Thomas Schneider,TU Darmstadt
+Maliheh Shirvanian,Visa Research
+Ben Stock,CISPA Helmholtz Center for Information Security
+Gang Tan,Penn State University
+Dave (Jing) Tian,Purdue University
+Yuan Tian,University of Virginia
+Patrick Traynor,University of Florida
+Selcuk Uluagac,Florida International University
+Bimal Viswanath,Virginia Tech University
+Dan Wallach,Rice
+Gang Wang,University of Illinois Urbana-Champaign
+Xiaofeng Wang,Indiana University
+Luyi Xing,Indiana University Bloomington
+Dongyan Xu,Purdue University
+Wenyuan Xu,Zhejiang University
+Minhui (Jason) Xue,The University of Adelaide
+Danfeng (Daphne) Yao,"Virginia Tech, Dept of Computer Science"
+Qiang Zeng,University of South Carolina
+Yinqian Zhang,Ohio State
+Saman Zonouz,Rutgers University
+Alessandra Scafuro,North Carolina State
+Arthur Gervais,Imperial College London
+Aysajan Abidin,KU Leuven
+Bart Preneel,KU Leuven
+Joel Frank,Ruhr-Universität Bochum
+Kapil Singh,IBM T.J. Watson Research Center
+Pedro Moreno-Sanchez,TU Wien
+Ren Zhang,Nervos
+Sazzadur Rahaman,University of Arizona
+Shouling Ji,Zhejiang University
+Srinath Setty,Microsoft Research
+Ting Chen,University of Electronic Science and Technology of China
+Xiapu Luo,The Hong Kong Polytechnic University
+Dongyan Xu,Purdue University
+Ahmad-Reza Sadeghi,Technische Universität Darmstadt
+Adam Aviv,The George Washington University
+Adam Bates,University of Illinois at Urbana-Champaign
+Adam Doupe,Arizona State University
+Adwait Nadkarni,William & Mary
+Alexandra Dmitrienko,University of Würzburg
+Amir Houmansadr,University of Massachusetts-Amherst
+Andrew Paverd,Microsoft Research
+Antonio Bianchi,Purdue University
+Anupam Das,North Carolina State University
+Ben Stock,CISPA Helmholtz Center for Information Security
+Benny Pinkas,"VMware Research, Bar Ilan University"
+Bimal Viswanath,Virginia Tech
+Blase Ur,University of Chicago
+Brad Reaves,North Carolina State University
+Brendan Dolan-Gavitt,NYU
+Brendan Saltaformaggio,Georgia Institute of Technology
+Brent ByungHoon Kang,KAIST
+Bryan Parno,Carnegie Mellon University
+Byoungyoung Lee,Seoul National University
+Carmela Troncoso,EPFL
+Carrie Gates,Bank of America
+Chris Kanich,University of Illinois at Chicago
+Christina Garman,Purdue University
+Christina Poepper,New York University Abu Dhabi
+Christopher Liebchen,Google
+Cristina Nita-Rotaru,Northeastern University
+David Lie,University of Toronto
+Davide Balzarotti,EURECOM
+Earlence Fernandes,University of Wisconsin-Madison
+Emiliano De Cristofaro,University College London
+Engin Kirda,Northeastern University
+Farinaz Koushanfar,"University of California, San Diego"
+Gang Tan,Pennsylvania State University
+Gang Wang,Virginia Tech
+Gene Tsudik,"University of California, Irvine"
+Guofei Gu,Texas A&M University
+Haibo Chen,Shanghai Jiao Tong University
+Hamed Okhravi,MIT Lincoln Laboratory
+Ivan Martinovic,Oxford University
+Jack Stokes,Microsoft Research
+Jeremiah Blocki,Purdue University
+Jon McCune,Google
+Juan Caballero,IMDEA Software Institute
+Kevin Butler,University of Florida
+Kevin Hamlen,University of Texas at Dallas
+Konrad Rieck,TU Braunschweig
+Kun Sun,George Mason University
+Lejla Batina,Radboud University
+Limin Jia,Carnegie Mellon University
+Long Lu,Northeastern University
+Lucas Davi,University of Duisburg-Essen
+Luyi Xing,Indiana University Bloomington
+Manuel Egele,Boston University
+Marcus Peinado,Microsoft Research
+Mathias Payer,EPFL
+Matt Fredrikson,Carnegie Mellon University
+Mauro Conti,University of Padua
+Micah Sherr,Georgetown University
+Michelle Mazurek,University of Maryland
+Mihai Christodorescu,Visa Research
+Neil Gong,Duke University
+Nele Mentens,KU Leuven
+Nick Nikiforakis,Stony Brook University
+Panos Papadimitratos,KTH Royal Institute of Technology
+Patrick Traynor,University of Florida
+Per Larsen,"University of California, Irvine and Immunant, Inc."
+Qi Li,Tsinghua University
+Rosario Cammarota,Intel
+Saman Zonouz,Rutgers University
+Sebastian Faust,TU Darmstadt
+Selcuk Uluagac,Florida International University
+Srdjan Capkun,ETH Zurich
+Stefan Katzenbeisser,University of Passau
+Stefanie Roos,TU Delft
+Stephen McCamant,University of Minnesota
+Suman Jana,Columbia University
+Taesoo Kim,Georgia Institute of Technology
+Thomas Schneider,TU Darmstadt
+Thorsten Holz,Ruhr-University Bochum
+Tiffany Bao,Arizona State University
+Trent Jaeger,Pennsylvania State University
+Tudor Dumitras,University of Maryland
+Vinod Ganapathy,Indian Institute of Science
+Wenyuan Xu,Zhejiang University
+William Enck,North Carolina State University
+Xiaojing Liao,Indiana University Bloomington
+Yinqian Zhang,Ohio State University
+Yongdae Kim,KAIST
+Yonghwi Kwon,University of Virginia
+Yossef Oren,Ben-Gurion University of the Negev
+Yuan Tian,University of Virginia
+Zhenkai Liang,National University of Singapore
+Zhiqiang Lin,Ohio State University
+Zhiyun Qian,"University of California, Riverside"
+Zhou Li,"University Of California, Irvine"
+Alina Oprea,Northeastern University
+Dongyan Xu,Purdue University
+Adam Aviv,United States Naval Academy
+Foteini Baldimtsi,George Mason University
+Lujo Bauer,Carnegie Mellon University
+Adam Bates,University of Illinois at Urbana-Champaign
+Marina Blanton,SUNY Buffalo
+Kevin Butler,University of Florida
+Juan Caballero,IMDEA Software Institute
+Joseph Calandrino,FTC
+Srdjan Capkun,ETH Zurich
+Gabriela Ciocarlie,SRI International
+Weidong Cui,Microsoft Research
+Lucas Davi,University of Duisburg-Essen
+Emiliano De Cristofaro,University College London
+Adam Doupe,Arizona State University
+Tudor Dumitras,University of Maryland
+Manuel Egele,Boston University
+William Enck,North Carolina State University
+David Evans,University of Virginia
+Giulia Fanti,Carnegie Mellon University
+Matt Fredrikson,Carnegie Mellon University
+Christina Garman,Purdue University
+Carrie Gates,Bank of America
+Phillipa Gill,University of Massachusetts-Amherst
+Cristiano Giuffrida,Vrije University Amsterdam
+Neil Gong,Iowa State University
+Carl Gunter,University of Illinois at Urbana-Champaign
+Ryan Henry,Indiana University
+Thorsten Holz,Ruhr-University Bochum
+Endadul Hoque,Florida International University
+Amir Houmansadr,University of Massachusetts-Amherst
+Limin Jia,Carnegie Mellon University
+Brent ByungHoon Kang,KAIST
+Aniket Kate,Purdue University
+Chung Hwan Kim,NEC Labs America
+Taesoo Kim,Georgia Tech
+Yongdae Kim,KAIST
+Engin Kirda,Northeastern University
+Farinaz Koushanfar,UC San Diego
+Yonghwi Kwon,University of Virginia
+Kirill Levchenko,UC San Diego
+Bo Li,University of Illinois at Urbana-Champaign
+Zhou Li,UC Irvine
+Zhenkai Liang,National University of Singapore
+Xiaojing Liao,Indiana University
+David Lie,University of Toronto
+Zhiqiang Lin,Ohio State University
+Long Lu,Northeastern University
+Ivan Martinovic,Oxford University
+Michelle Mazurek,University of Maryland
+Damon McCoy,New York University
+Jon McCune,Google
+Nick Nikiforakis,Stony Brook University
+Cristina Nita-Rotaru,Northeastern University
+Hamed Okhravi,MIT Lincoln Lab
+Dimitris Papadopoulos,Hong Kong University of Science and Technology
+Mathias Payer,EPFL
+Marcus Peinado,Microsoft Research
+Roberto Perdisci,University of Georgia
+Christina Poepper,NYU Abu Dhabi
+Michalis Polychronakis,Stony Brook University
+Zhiyun Qian,UC Riverside
+Aanjhan Ranganathan,Northeastern University
+Bradley Reaves,North Carolina State University
+Mike Reiter,UNC Chapel Hill
+Ahmad-Reza Sadeghi,Technical University Darmstadt
+Tamara Rezk,INRIA
+Brendan Saltaformaggio,Georgia Tech
+Micah Sherr,Georgetown University
+Deian Stefan,UC San Diego
+Jay Stokes,Microsoft Research
+Yuan Tian,University of Virginia
+Nikos Triandopolous,Stevens Institute of Technology
+Selcuk Uluagac,Florida International University
+Luyi Xing,Indiana University
+Wenyuan Xu,Zhejiang University
+Daphne Yao,Virginia Tech
+Ting-Fang Yen,DataVisor
+Yinqian Zhang,Ohio State University
+Saman Zonouz,Rutgers University

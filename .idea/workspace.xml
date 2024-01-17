@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b73b616d-c2d7-44e0-a62c-fd26b2c5b061" name="Changes" comment="Open Alex and DBLP data import, disambiguated authors, fetched co-authors &amp; visualization">
+      <change afterPath="$PROJECT_DIR$/.idea/Neo4j-coauthorship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV_PC_Final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Security_PC_Final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_security_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_mining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_mining_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_mining_PC_Final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics_PC_final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics_PC_final_new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphics_PC_new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP_PC_Final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network_PC_Final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS_PC_Final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robotics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robotics_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robotics_PC_final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIGIR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIGIR_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIGIR_PC_FINAL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Software.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Software_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Software_PC_final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supercomputing_PC_Final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Use_squared_coordinates_in_viz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/XYZ.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network_map.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network_network.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network_squared_map.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network_squared_network.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_Architecture_Community.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_Computer_Security_Community_viz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_Computer_Vision_Community_Viz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_SuperComputing_Community_Viz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_Vision_Community_Viz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_graphics_community_viz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_network_community.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_operating_system_viz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Complete_software_community.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/Squared_network_viz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_computer_security.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_computer_vision.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_graphics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_icra.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_network.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_nlp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_operating_systems.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_sigir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_software.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_supercomputing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/coauthor_viz_with_squaed_coordinates_network_comm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/complete_software_coauthorship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/squared_viz_network.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updated_network_map.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xyz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/your_file_mining.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/program_committee/isca_program_committee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/program_committee/isca_program_committee.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/coauthor_viz_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/coauthor_viz_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_HPCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_HPCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2UwCkHiivXzYE7dEZnaDhVmB9G7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hethgala/code/Neo4j-second"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Neo4j-coauthorship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b73b616d-c2d7-44e0-a62c-fd26b2c5b061" name="Changes" comment="" />
+      <created>1693841398416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693841398416</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Open Alex and DBLP data import, disambiguated authors, fetched co-authors &amp; visualization">
+      <option name="closed" value="true" />
+      <created>1693841758319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693841758320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Open Alex and DBLP data import, disambiguated authors, fetched co-authors &amp; visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Open Alex and DBLP data import, disambiguated authors, fetched co-authors &amp; visualization" />
+  </component>
+</project>
